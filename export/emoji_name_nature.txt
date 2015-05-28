@@ -1,0 +1,125 @@
+🌱  u1f331 Seedling
+🌲  u1f332 Evergreen Tree
+🌳  u1f333 Deciduous Tree
+🌴  u1f334 Palm Tree
+🌵  u1f335 Cactus
+🌷  u1f337 Tulip
+🌸  u1f338 Cherry Blossom
+🌹  u1f339 Rose
+🌺  u1f33a Hibiscus
+🌻  u1f33b Sunflower
+🌼  u1f338 1f33c Blossom
+💐  u1f490 Bouquet
+🌾  u1f33e Ear Of Rice
+🌿  u1f33f Herb
+🍀  u1f340 Four Leaf Clover
+🍁  u1f341 Maple Leaf
+🍂  u1f342 Fallen Leaf
+🍃  u1f343 Leaf Fluttering In Wind
+🍄  u1f344 Mushroom
+🌰  u1f330 Chestnut
+🐀  u1f1f2-1f1f8 1f400 Rat
+🐁  u1f401 Mouse
+🐭  u1f42d Mouse Face
+🐹  u1f439 Hamster Face
+🐂  u1f371 1f402 1f4ee Ox
+🐃  u1f403 Water Buffalo
+🐄  u1f404 Cow
+🐮  u1f42e Cow Face
+🐅  u1f405 Tiger
+🐆  u1f406 Leopard
+🐯  u1f42f Tiger Face
+🐇  u1f407 Rabbit
+🐰  u1f430 Rabbit Face
+🐈  u1f408 Cat
+🐱  u1f431 1f63e 1f63f 1f640 Cat Face
+🐎  u1f3a0 1f40e Horse
+🐴  u1f434 Horse Face
+🐏  u1f40f 1f68a Ram
+🐑  u1f411 Sheep
+🐐  u1f410 Goat
+🐓  u1f413 Rooster
+🐔  u1f414 Chicken
+🐤  u1f424 1f425 Baby Chick
+🐣  u1f423 Hatching Chick
+🐥  u1f425 Front-Facing Baby Chick
+🐦  u1f426 Bird
+🐧  u1f427 Penguin
+🐘  u1f418 Elephant
+🐪  u1f42a Dromedary Camel
+🐫  u1f42b Bactrian Camel
+🐗  u1f417 Boar
+🐖  u1f416 Pig
+🐷  u1f437 Pig Face
+🐽  u1f43d Pig Nose
+🐕  u1f415 Dog
+🐩  u1f429 Poodle
+🐶  u1f436 Dog Face
+🐺  u1f43a Wolf Face
+🐻  u1f43b Bear Face
+🐨  u1f428 Koala
+🐼  u1f43c Panda Face
+🐵  u1f435 Monkey Face
+🙈  u1f648 See-No-Evil Monkey
+🙉  u1f649 Hear-No-Evil Monkey
+🙊  u1f64a Speak-No-Evil Monkey
+🐒  u1f412 1f648 1f649 1f64a Monkey
+🐉  u1f409 Dragon
+🐲  u1f432 Dragon Face
+🐊  u1f40a Crocodile
+🐍  u1f40d Snake
+🐢  u1f422 Turtle
+🐸  u1f438 Frog Face
+🐋  u1f40b 1f433 Whale
+🐳  u1f433 Spouting Whale
+🐬  u1f42c Dolphin
+🐙  u1f419 Octopus
+🐟  u1f3a3 1f41f 1f420 1f421 Fish
+🐠  u1f420 Tropical Fish
+🐡  u1f421 Blowfish
+🐚  u1f41a Spiral Shell
+🐌  u1f40c Snail
+🐛  u1f41b Bug
+🐜  u1f418 1f41c Ant
+🐝  u1f41d Honeybee
+🐞  u1f41e Lady Beetle
+🐾  u1f43e Paw Prints
+⚡️ High Voltage Sign
+🔥  u1f525 Fire
+🌙  u1f319 Crescent Moon
+☀️ Black Sun With Rays
+⛅ Sun Behind Cloud
+☁️ Cloud
+💧  u1f4a7 Droplet
+💦  u1f4a6 Splashing Sweat Symbol
+☔️ Umbrella With Rain Drops
+💨  u1f4a8 Dash Symbol
+❄️ Snowflake
+🌟  u1f31f Glowing Star
+⭐ White Medium Star
+🌠  u1f320 Shooting Star
+🌄  u1f304 Sunrise Over Mountains
+🌅 u1f305 Sunrise
+🌈  u1f308 Rainbow
+🌊  u1f30a Water Wave
+🌋  u1f30b Volcano
+🌌  u1f30c Milky Way
+🗻  u1f5fb Mount Fuji
+🗾  u1f5fe Silhouette Of Japan
+🌐  u1f310 Globe With Meridians
+🌍  u1f30d Earth Globe Europe-Africa
+🌎  u1f30e Earth Globe Americas
+🌏  u1f30f Earth Globe Asia-Australia
+🌑  u1f311 New Moon Symbol
+🌒  u1f312 Waxing Crescent Moon Symbol
+🌓  u1f313 First Quarter Moon Symbol
+🌔  u1f314 Waxing Gibbous Moon Symbol
+🌕  u1f315 Full Moon Symbol
+🌖  u1f316 Waning Gibbous Moon Symbol
+🌗  u1f317 Last Quarter Moon Symbol
+🌘  u1f318 Waning Crescent Moon Symbol
+🌚  u1f31a New Moon With Face
+🌝  u1f31d Full Moon With Face
+🌛  u1f31b First Quarter Moon With Face
+🌜  u1f31c Last Quarter Moon With Face
+🌞  u1f31e Sun With Face

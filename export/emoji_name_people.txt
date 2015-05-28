@@ -1,0 +1,153 @@
+😀 Grinning Face
+😁  u1f601 Grinning Face With Smiling Eyes
+😂  u1f602 1f639 Face With Tears Of Joy
+😃  u1f603 Smiling Face With Open Mouth
+😄  u1f604 Smiling Face With Open Mouth And Smiling Eyes
+😅  u1f605 Smiling Face With Open Mouth And Cold Sweat
+😆  u1f606 Smiling Face With Open Mouth And Tightly-Closed Eyes
+😇  u1f607 Smiling Face With Halo
+😈  u1f608 Smiling Face With Horns
+👿  u1f364 1f47f Imp
+😉  u1f609 Winking Face
+😊  u1f60a Smiling Face With Smiling Eyes
+☺️ White Smiling Face
+😋  u1f60b Face Savouring Delicious Food
+😌  u1f60c 1f625 Relieved Face
+😍  u1f60d Smiling Face With Heart-Shaped Eyes
+😎  u1f60e Smiling Face With Sunglasses
+😏  u1f60f Smirking Face
+😐  u1f610 Neutral Face
+😑 Expressionless Face
+😒  u1f612 Unamused Face
+😓  u1f613 Face With Cold Sweat
+😔  u1f614 Pensive Face
+😕 Confused Face
+😖  u1f616 Confounded Face
+😗 Kissing Face
+😘  u1f618 Face Throwing A Kiss
+😙 Kissing Face With Smiling Eyes
+😚 u1f61a Kissing Face With Closed Eyes
+😛 Face With Stuck-Out Tongue
+😜  u1f61c Face With Stuck-Out Tongue And Winking Eye
+😝  u1f61d Face With Stuck-Out Tongue And Tightly-Closed Eyes
+😞  u1f61e Disappointed Face
+😟 Worried Face
+😠  u1f620 Angry Face
+😡  u1f621 1f64e Pouting Face
+😢  u1f622 1f62d Crying Face
+😣  u1f623 Persevering Face
+😤  u1f624 Face With Look Of Triumph
+😥  u1f625 Disappointed But Relieved Face
+😦 Frowning Face With Open Mouth
+😧 Anguished Face
+😨  u1f628 Fearful Face
+😩  u1f629 Weary Face
+😪  u1f62a Sleepy Face
+😫  u1f62b Tired Face
+😬 Grimacing Face
+😭  u1f62d Loudly Crying Face
+😮  u1f603 1f63a Face With Open Mouth
+😯 Hushed Face
+😰  u1f605 1f630 Face With Open Mouth And Cold Sweat
+😱  u1f631 Face Screaming In Fear
+😲  u1f632 Astonished Face
+😳  u1f633 Flushed Face
+😴 Sleeping Face
+😵  u1f635 Dizzy Face
+😶  u1f636 Face Without Mouth
+😷  u1f637 Face With Medical Mask
+😸  u1f638 Grinning Cat Face With Smiling Eyes
+😹  u1f639 Cat Face With Tears Of Joy
+😺  u1f63a Smiling Cat Face With Open Mouth
+😻  u1f63b Smiling Cat Face With Heart-Shaped Eyes
+😼  u1f63c Cat Face With Wry Smile
+😽  u1f63d Kissing Cat Face With Closed Eyes
+😾  u1f63e Pouting Cat Face
+😿  u1f63f Crying Cat Face
+🙀  u1f640 Weary Cat Face
+👣  u1f463 Footprints
+👤  u1f464 Bust In Silhouette
+👥  u1f465 Busts In Silhouette
+👦  u1f466 Boy
+👧  u1f467 Girl
+👨  u1f1ee-1f1f2 1f1f4-1f1f2 1f468 1f469 1f474 1f475 1f482 Man
+👩  u1f469 1f475 Woman
+👨‍👩‍👦 Family (Man, Woman, Boy)
+👨‍👩‍👧 Family (Man, Woman, Girl)
+👪  u1f46a Family
+👨‍👩‍👦‍👦 Family (Man, Woman, Boy, Boy)
+👨‍👩‍👧‍👧 Family (Man, Woman, Girl, Girl)
+👩‍👩‍👦 Family (Woman, Woman, Boy)
+👩‍👩‍👧 Family (Woman, Woman, Girl)
+👩‍👩‍👧‍👦 Family (Woman, Woman, Girl, Boy)
+👩‍👩‍👦‍👦 Family (Woman, Woman, Boy, Boy)
+👩‍👩‍👧‍👧 Family (Woman, Woman, Girl, Girl)
+👨‍👨‍👦 Family (Man, Man, Boy)
+👨‍👨‍👧 Family (Man, Man, Girl)
+👨‍👨‍👧‍👦 Family (Man, Man, Girl, Boy)
+👨‍👨‍👦‍👦 Family (Man, Man, Boy, Boy)
+👨‍👨‍👧‍👧 Family (Man, Man, Girl, Girl)
+👫  u1f46b Man And Woman Holding Hands
+👬  u1f46c Two Men Holding Hands
+👭  u1f46d Two Women Holding Hands
+👮  u1f46e Police Officer
+👯  u1f46f Woman With Bunny Ears
+👰  u1f470 Bride With Veil
+👱  u1f471 Person With Blond Hair
+👲  u1f472 Man With Gua Pi Mao
+👳  u1f473 Man With Turban
+👴  u1f474 Older Man
+👵  u1f475 Older Woman
+👶  u1f476 Baby
+👷  u1f477 Construction Worker
+👸  u1f478 Princess
+💂  u1f482 Guardsman
+👼  u1f47c Baby Angel
+🎅  u1f385 Father Christmas
+👻  u1f47b Ghost
+👹  u1f479 Japanese Ogre
+👺  u1f47a Japanese Goblin
+💩  u1f4a9 Pile Of Poo
+💀  u1f480 Skull
+👽  u1f47d Extraterrestrial Alien
+👾  u1f47e Alien Monster
+🙇  u1f647 Person Bowing Deeply
+💁  u1f481 Information Desk Person
+🙅  u1f645 Face With No Good Gesture
+🙆  u1f646 Face With Ok Gesture
+🙋  u1f64b Happy Person Raising One Hand
+🙎  u1f64e Person With Pouting Face
+🙍  u1f64d Person Frowning
+💆  u1f486 Face Massage
+💇  u1f487 Haircut
+💑  u1f491 Couple With Heart
+👩‍❤️‍👩 Couple With Heart (Woman, Woman)
+👨‍❤️‍👨 Couple With Heart (Man, Man)
+💏  u1f48f 1f618 Kiss
+👩‍❤️‍💋‍👩 Kiss (Woman, Woman)
+👨‍❤️‍💋‍👨 Kiss (Man, Man)
+🙌  u1f64c Person Raising Both Hands In Celebration
+👏  u1f44f Clapping Hands Sign
+👂  u1f350 1f442 1f631 Ear
+👀  u1f440 1f601 1f604 1f606 1f60a 1f60d 1f61a 1f61d 1f638 1f63b 1f63d Eyes
+👃  u1f43d 1f443 1f685 Nose
+👄  u1f444 1f603 1f636 1f63a Mouth
+💋  u1f48b Kiss Mark
+👅  u1f445 Tongue
+💅  u1f485 Nail Polish
+👋  u1f44b Waving Hand Sign
+👍  u1f44d Thumbs Up Sign
+👎  u1f44e Thumbs Down Sign
+☝️ White Up Pointing Index
+👆  u1f446 White Up Pointing Backhand Index
+👇  u1f447 White Down Pointing Backhand Index
+👈  u1f448 White Left Pointing Backhand Index
+👉  u1f449 White Right Pointing Backhand Index
+👌  u1f44c Ok Hand Sign
+✌️ Victory Hand
+👊  u1f44a Fisted Hand Sign
+✊  u270a Raised Fist
+✋  u270b Raised Hand
+💪  u1f4aa Flexed Biceps
+👐  u1f450 Open Hands Sign
+🙏  u1f64f Person With Folded Hands

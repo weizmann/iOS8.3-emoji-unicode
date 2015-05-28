@@ -1,0 +1,345 @@
+⌚ u23f1 Watch
+📱  u1f4f1 Mobile Phone
+📲  u1f4f2 Mobile Phone With Rightwards Arrow At Left
+💻  u1f4bb Personal Computer
+⏰  u23f0 Alarm Clock
+⏳  u23f3 Hourglass With Flowing Sand
+⌛ Hourglass
+📷 u1f3a5 1f4f7 1f4f9 Camera
+📹  u1f4f9 Video Camera
+🎥  u1f3a5 Movie Camera
+📺 u1f4fa Television
+📻 u1f4fb Radio
+📟 u1f4df Pager
+📞  u1f4de Telephone Receiver
+☎️ Black Telephone
+📠  u1f4e0 Fax Machine
+💽 u1f4bd Minidisc
+💾  u1f4be Floppy Disk
+💿  u1f4bf Optical Disc
+📀 u1f4c0 DVD
+📼 u1f4fc Videocassette
+🔋 u1f50b Battery
+🔌  u1f50c Electric Plug
+💡  u1f4a1 Electric Light Bulb
+🔦  u1f526 Electric Torch
+📡  u1f4e1 Satellite Antenna
+💳  u1f4b3 Credit Card
+💸  u1f4b8 Money With Wings
+💰  u1f4b0 Money Bag
+💎  u1f48e Gem Stone
+🌂  u1f302 Closed Umbrella
+👝 u1f45d Pouch
+👛 u1f45b Purse
+👜 u1f45c Handbag
+💼 u1f4bc Briefcase
+🎒  u1f392 School Satchel
+💄 u1f484 Lipstick
+👓 u1f453 Eyeglasses
+👒  u1f452 Womans Hat
+👡  u1f461 Womans Sandal
+👠  u1f460 High-Heeled Shoe
+👢  u1f462 Womans Boots
+👞  u1f45e Mans Shoe
+👟  u1f45f Athletic Shoe
+👙 u1f459 Bikini
+👗 u1f457 Dress
+👘 u1f458 Kimono
+👚  u1f45a Womans Clothes
+👕 u1f455 T-Shirt
+👔 u1f454 Necktie
+👖 u1f456 Jeans
+🚪 u1f6aa Door
+🚿 u1f6bf Shower
+🛁 u1f6c1 Bathtub
+🚽 u1f6bd Toilet
+💈  u1f488 Barber Pole
+💉 u1f489 Syringe
+💊 u1f48a Pill
+🔬 u1f52c Microscope
+🔭 u1f52d Telescope
+🔮  u1f52e Crystal Ball
+🔧 u1f527 Wrench
+🔪 u1f52a Hocho
+🔩  u1f529 Nut And Bolt
+🔨 u1f528 Hammer
+💣 u1f4a3 Bomb
+🚬  u1f6ac 1f6ad Smoking Symbol
+🔫 u1f52b Pistol
+🔖 u1f516 Bookmark
+📰 u1f4f0 Newspaper
+🔑 u1f1f9-1f1f7 1f412 1f510 1f511 1f648 1f649 1f64a Key
+✉ u1f4e8 Envelope
+📩  u1f4e9 Envelope With Downwards Arrow Above
+📨  u1f4e8 Incoming Envelope
+📧  u1f4e7 E-Mail Symbol
+📥  u1f4e5 Inbox Tray
+📤  u1f4e4 Outbox Tray
+📦 u1f4e6 Package
+📯  u1f4ef Postal Horn
+📮 u1f4ee Postbox
+📪  u1f4ea Closed Mailbox With Lowered Flag
+📫  u1f4eb Closed Mailbox With Raised Flag
+📬  u1f4ec Open Mailbox With Raised Flag
+📭  u1f4ed Open Mailbox With Lowered Flag
+📄  u1f4c4 Page Facing Up
+📃  u1f4c3 Page With Curl
+📑  u1f4d1 Bookmark Tabs
+📈  u1f4c8 Chart With Upwards Trend
+📉  u1f4c9 Chart With Downwards Trend
+📊  u1f4ca Bar Chart
+📅 u1f4c5 1f4c6 Calendar
+📆  u1f4c6 Tear-Off Calendar
+🔅  u1f505 Low Brightness Symbol
+🔆  u1f506 High Brightness Symbol
+📜 u1f4dc Scroll
+📋  u1f4cb Clipboard
+📖  u1f4d6 Open Book
+📓 u1f4d3 Notebook
+📔  u1f4d4 Notebook With Decorative Cover
+📒  u1f4d2 Ledger
+📕  u1f4d5 Closed Book
+📗  u1f4d7 Green Book
+📘  u1f4d8 Blue Book
+📙  u1f4d9 Orange Book
+📚  u1f4da Books
+📇  u1f4c7 Card Index
+🔗  u1f517 Link Symbol
+📎 u1f4ce Paperclip
+📌 u1f4cc 1f4cd Pushpin
+✂️ Black Scissors
+📐  u1f4d0 Triangular Ruler
+📍  u1f4cd Round Pushpin
+📏  u1f4cf Straight Ruler
+🚩  u1f6a9 Triangular Flag On Post
+📁  u1f4c1 1f4c2 File Folder
+📂  u1f4c2 Open File Folder
+✒️ Black Nib
+✏️ Pencil
+📝 u1f4dd Memo
+🔏  u1f50f Lock With Ink Pen
+🔐  u1f510 Closed Lock With Key
+🔒 u1f512 1f513 1f550 1f551 1f552 1f553 1f554 1f555 1f556 1f557 1f558 1f559 1f55a 1f55b 23f0 23f2 Lock
+🔓  u1f513 Open Lock
+📣  u1f4e3 Cheering Megaphone
+📢  u1f4e2 Public Address Loudspeaker
+🔈 u1f4e2 1f508 Speaker
+🔉  u1f509 Speaker With One Sound Wave
+🔊  u1f50a Speaker With Three Sound Waves
+🔇  u1f507 Speaker With Cancellation Stroke
+💤  u1f4a4 Sleeping Symbol
+🔔 u1f514 Bell
+🔕  u1f515 Bell With Cancellation Stroke
+💭  u1f4ad Thought Balloon
+💬  u1f4ac Speech Balloon
+🚸  u1f6b8 Children Crossing
+🔍  u1f50d Left-Pointing Magnifying Glass
+🔎  u1f50e Right-Pointing Magnifying Glass
+🚫  u1f6ab No Entry Sign
+⛔ No Entry
+📛  u1f4db Name Badge
+🚷  u1f6b7 No Pedestrians
+🚯  u1f6af Do Not Litter Symbol
+🚳  u1f6b3 No Bicycles
+🚱  u1f6b1 Non-Potable Water Symbol
+📵  u1f4f5 No Mobile Phones
+🔞  u1f51e No One Under Eighteen Symbol
+🉑  u1f251 Circled Ideograph Accept
+🉐  u1f250 Circled Ideograph Advantage
+💮  u1f4ae White Flower
+㊙️ Circled Ideograph Secret
+㊗️ Circled Ideograph Congratulation
+🈴  u1f234 Squared CJK Unified Ideograph-5408
+🈵  u1f235 Squared CJK Unified Ideograph-6E80
+🈲  u1f232 Squared CJK Unified Ideograph-7981
+🈶  u1f236 Squared CJK Unified Ideograph-6709
+🈚 Squared CJK Unified Ideograph-7121
+🈸  u1f238 Squared CJK Unified Ideograph-7533
+🈺  u1f23a Squared CJK Unified Ideograph-55B6
+🈷  u1f237 Squared CJK Unified Ideograph-6708
+🈹  u1f239 Squared CJK Unified Ideograph-5272
+🈳  u1f233 Squared CJK Unified Ideograph-7A7A
+🈂  u1f202 Squared Katakana Sa
+🈁  u1f201 Squared Katakana Koko
+🈯 Squared CJK Unified Ideograph-6307
+💹  u1f4b9 Chart With Upwards Trend And Yen Sign
+❇️ Sparkle
+✳️ Eight Spoked Asterisk
+❎  u274e Negative Squared Cross Mark
+✅  u2705 White Heavy Check Mark
+✴️ Eight Pointed Black Star
+📳  u1f4f3 Vibration Mode
+📴  u1f4f4 Mobile Phone Off
+🆚  u1f19a Squared VS
+🅰  u1f170 Negative Squared Latin Capital Letter A
+🅱  u1f171 Negative Squared Latin Capital Letter B
+🆎  u1f18e Negative Squared AB
+🆑  u1f191 Squared CL
+🅾  u1f17e Negative Squared Latin Capital Letter O
+🆘  u1f198 Squared SOS
+🆔  u1f194 Squared ID
+🅿️ Negative Squared Latin Capital Letter P
+🚾  u1f6be Water Closet
+🆒  u1f192 Squared Cool
+🆓  u1f193 Squared Free
+🆕  u1f195 Squared New
+🆖  u1f196 Squared Ng
+🆗  u1f197 Squared OK
+🆙  u1f199 Squared Up With Exclamation Mark
+🏧  u1f3e7 Automated Teller Machine
+♈ Aries
+♉ Taurus
+♊ Gemini
+♋ Cancer
+♌ Leo
+♍ Virgo
+♎ Libra
+♏ Scorpius
+♐ Sagittarius
+♑ Capricorn
+♒ Aquarius
+♓ Pisces
+🚻 u1f6bb Restroom
+🚹  u1f6b9 1f6ba Mens Symbol
+🚺  u1f6ba Womens Symbol
+🚼  u1f6bc Baby Symbol
+♿ Wheelchair Symbol
+🚰  u1f6b0 1f6b1 Potable Water Symbol
+🚭  u1f6ad No Smoking Symbol
+🚮  u1f6ae Put Litter In Its Place Symbol
+▶️ Black Right-Pointing Triangle
+◀️ Black Left-Pointing Triangle
+🔼  u1f53c Up-Pointing Small Red Triangle
+🔽  u1f53d Down-Pointing Small Red Triangle
+⏩  u23e9 Black Right-Pointing Double Triangle
+⏪  u23ea Black Left-Pointing Double Triangle
+⏫  u23eb Black Up-Pointing Double Triangle
+⏬  u23ec Black Down-Pointing Double Triangle
+➡️ Black Rightwards Arrow
+⬅️ Leftwards Black Arrow
+⬆️ Upwards Black Arrow
+⬇️ Downwards Black Arrow
+↗️ North East Arrow
+↘️ South East Arrow
+↙️ South West Arrow
+↖️ North West Arrow
+↕️ Up Down Arrow
+↔️ Left Right Arrow
+🔄  u1f504 Anticlockwise Downwards And Upwards Open Circle Arrows
+↪️ Rightwards Arrow With Hook
+↩️ Leftwards Arrow With Hook
+⤴️ Arrow Pointing Rightwards Then Curving Upwards
+⤵️ Arrow Pointing Rightwards Then Curving Downwards
+🔀  u1f500 Twisted Rightwards Arrows
+🔁  u1f501 Clockwise Rightwards And Leftwards Open Circle Arrows
+🔂  u1f502 Clockwise Rightwards And Leftwards Open Circle Arrows With Circled One Overlay
+#️⃣ Hash Key
+0️⃣ Keycap 0
+1️⃣ Keycap 1
+2️⃣ Keycap 2
+3️⃣ Keycap 3
+4️⃣ Keycap 4
+5️⃣ Keycap 5
+6️⃣ Keycap 6
+7️⃣ Keycap 7
+8️⃣ Keycap 8
+9️⃣ Keycap 9
+🔟  u1f51f Keycap Ten
+🔢  u1f522 Input Symbol For Numbers
+🔤  u1f524 Input Symbol For Latin Letters
+🔡  u1f521 Input Symbol For Latin Small Letters
+🔠  u1f520 Input Symbol For Latin Capital Letters
+ℹ️ Information Source
+📶  u1f4f6 Antenna With Bars
+🎦 u1f3a6 Cinema
+🔣  u1f523 Input Symbol For Symbols
+➕  u2795 Heavy Plus Sign
+➖  u2796 Heavy Minus Sign
+〰 Wavy Dash
+➗  u2797 Heavy Division Sign
+✖ Heavy Multiplication X
+✔  u2705 Heavy Check Mark
+🔃  u1f503 1f504 Clockwise Downwards And Upwards Open Circle Arrows
+™ Trade Mark Sign
+© Copyright Sign
+® Registered Sign
+💱  u1f4b1 Currency Exchange
+💲 u1f4b2 Heavy Dollar Sign
+➰  u27b0 27bf Curly Loop
+➿  u27bf Double Curly Loop
+〽️ Part Alternation Mark
+❗ Heavy Exclamation Mark Symbol
+❓  u2753 Black Question Mark Ornament
+❕  u2755 White Exclamation Mark Ornament
+❔  u2754 White Question Mark Ornament
+‼️ Double Exclamation Mark
+⁉️ Exclamation Question Mark
+❌  u274c 274e Cross Mark
+⭕ Heavy Large Circle
+💯  u1f4af Hundred Points Symbol
+🔚  u1f51a End With Leftwards Arrow Above
+🔙  u1f519 Back With Leftwards Arrow Above
+🔛  u1f51b On With Exclamation Mark With Left Right Arrow Above
+🔝  u1f51d Top With Upwards Arrow Above
+🔜  u1f51c Soon With Rightwards Arrow Above
+🌀 u1f300 Cyclone
+Ⓜ️ Circled Latin Capital Letter M
+⛎ u26ce Ophiuchus
+🔯  u1f52f Six Pointed Star With Middle Dot
+🔰  u1f530 Japanese Symbol For Beginner
+🔱  u1f531 Trident Emblem
+⚠️ Warning Sign
+♨️ Hot Springs
+♻️ Black Universal Recycling Symbol
+💢  u1f4a2 Anger Symbol
+💠  u1f4a0 Diamond Shape With A Dot Inside
+♠️ Black Spade Suit
+♥️ Black Heart Suit
+♣️ Black Club Suit
+♦️ Black Diamond Suit
+☑️ Ballot Box With Check
+⚪ Medium White Circle
+⚫ Medium Black Circle
+🔘  u1f518 Radio Button
+🔴  u1f534 Large Red Circle
+🔵  u1f535 Large Blue Circle
+🔺  u1f53a Up-Pointing Red Triangle
+🔻  u1f53b Down-Pointing Red Triangle
+🔸  u1f538 Small Orange Diamond
+🔹  u1f539 Small Blue Diamond
+🔶  u1f536 Large Orange Diamond
+🔷  u1f537 Large Blue Diamond
+▪️ Black Small Square
+▫️ White Small Square
+⬛ Black Large Square
+⬜ White Large Square
+◼️ Black Medium Square
+◻️ White Medium Square
+◾️ Black Medium Small Square
+◽ White Medium Small Square
+🔲  u1f532 Black Square Button
+🔳  u1f533 White Square Button
+🕐  u1f550 Clock Face One OClock
+🕜  u1f55c Clock Face One-Thirty
+🕑  u1f551 Clock Face Two OClock
+🕝  u1f55d Clock Face Two-Thirty
+🕒  u1f552 Clock Face Three OClock
+🕞  u1f55e Clock Face Three-Thirty
+🕓  u1f553 Clock Face Four OClock
+🕟  u1f55f Clock Face Four-Thirty
+🕔  u1f554 Clock Face Five OClock
+🕠  u1f560 Clock Face Five-Thirty
+🕕  u1f555 Clock Face Six OClock
+🕡  u1f561 Clock Face Six-Thirty
+🕖  u1f556 Clock Face Seven OClock
+🕢  u1f562 Clock Face Seven-Thirty
+🕗  u1f557 Clock Face Eight OClock
+🕣  u1f563 Clock Face Eight-Thirty
+🕘  u1f558 Clock Face Nine OClock
+🕤  u1f564 Clock Face Nine-Thirty
+🕙  u1f559 Clock Face Ten OClock
+🕥  u1f565 Clock Face Ten-Thirty
+🕚  u1f55a Clock Face Eleven OClock
+🕦  u1f566 Clock Face Eleven-Thirty
+🕛  u1f55b Clock Face Twelve OClock
+🕧  u1f567 Clock Face Twelve-Thirty

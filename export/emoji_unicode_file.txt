@@ -1,0 +1,1033 @@
+random">random emoji</a></li>
+1f0a0 Playing Card Back
+1f0a1 Playing Card Ace Of Spades
+1f0a2 Playing Card Two Of Spades
+1f0a3 Playing Card Three Of Spades
+1f0a4 Playing Card Four Of Spades
+1f0a5 Playing Card Five Of Spades
+1f0a6 Playing Card Six Of Spades
+1f0a7 Playing Card Seven Of Spades
+1f0a8 Playing Card Eight Of Spades
+1f0a9 Playing Card Nine Of Spades
+1f0aa Playing Card Ten Of Spades
+1f0ab Playing Card Jack Of Spades
+1f0ac Playing Card Knight Of Spades
+1f0ad Playing Card Queen Of Spades
+1f0ae Playing Card King Of Spades
+1f0b1 Playing Card Ace Of Hearts
+1f0b2 Playing Card Two Of Hearts
+1f0b3 Playing Card Three Of Hearts
+1f0b4 Playing Card Four Of Hearts
+1f0b5 Playing Card Five Of Hearts
+1f0b6 Playing Card Six Of Hearts
+1f0b7 Playing Card Seven Of Hearts
+1f0b8 Playing Card Eight Of Hearts
+1f0b9 Playing Card Nine Of Hearts
+1f0ba Playing Card Ten Of Hearts
+1f0bb Playing Card Jack Of Hearts
+1f0bc Playing Card Knight Of Hearts
+1f0bd Playing Card Queen Of Hearts
+1f0be Playing Card King Of Hearts
+1f0c1 Playing Card Ace Of Diamonds
+1f0c2 Playing Card Two Of Diamonds
+1f0c3 Playing Card Three Of Diamonds
+1f0c4 Playing Card Four Of Diamonds
+1f0c5 Playing Card Five Of Diamonds
+1f0c6 Playing Card Six Of Diamonds
+1f0c7 Playing Card Seven Of Diamonds
+1f0c8 Playing Card Eight Of Diamonds
+1f0c9 Playing Card Nine Of Diamonds
+1f0ca Playing Card Ten Of Diamonds
+1f0cb Playing Card Jack Of Diamonds
+1f0cc Playing Card Knight Of Diamonds
+1f0cd Playing Card Queen Of Diamonds
+1f0ce Playing Card King Of Diamonds
+1f0cf Playing Card Black Joker
+1f0d1 Playing Card Ace Of Clubs
+1f0d2 Playing Card Two Of Clubs
+1f0d3 Playing Card Three Of Clubs
+1f0d4 Playing Card Four Of Clubs
+1f0d5 Playing Card Five Of Clubs
+1f0d6 Playing Card Six Of Clubs
+1f0d7 Playing Card Seven Of Clubs
+1f0d8 Playing Card Eight Of Clubs
+1f0d9 Playing Card Nine Of Clubs
+1f0da Playing Card Ten Of Clubs
+1f0db Playing Card Jack Of Clubs
+1f0dc Playing Card Knight Of Clubs
+1f0dd Playing Card Queen Of Clubs
+1f0de Playing Card King Of Clubs
+1f0df Playing Card White Joker
+1f170 Negative Squared Latin Capital Letter A
+1f171 Negative Squared Latin Capital Letter B
+1f17e Negative Squared Latin Capital Letter O
+1f18e Negative Squared Ab
+1f18f Negative Squared Wc
+1f191 Squared Cl
+1f192 Squared Cool
+1f193 Squared Free
+1f194 Squared Id
+1f195 Squared New
+1f196 Squared Ng
+1f197 Squared Ok
+1f198 Squared Sos
+1f199 Squared Up With Exclamation Mark
+1f19a Squared Vs
+1f1e6-1f1e8 Flag For Ascension Island
+1f1e6-1f1e9 Flag For Andorra
+1f1e6-1f1ea Flag For United Arab Emirates
+1f1e6-1f1eb Flag For Afghanistan
+1f1e6-1f1ec Flag For Antigua And Barbuda
+1f1e6-1f1ee Flag For Anguilla
+1f1e6-1f1f1 Flag For Albania
+1f1e6-1f1f2 Flag For Armenia
+1f1e6-1f1f4 Flag For Angola
+1f1e6-1f1f6 Flag For Antarctica
+1f1e6-1f1f7 Flag For Argentina
+1f1e6-1f1f8 Flag For American Samoa
+1f1e6-1f1f9 Flag For Austria
+1f1e6-1f1fa Flag For Australia
+1f1e6-1f1fc Flag For Aruba
+1f1e6-1f1fd Flag For Åland Islands
+1f1e6-1f1ff Flag For Azerbaijan
+1f1e7-1f1e6 Flag For Bosnia And Herzegovina
+1f1e7-1f1e7 Flag For Barbados
+1f1e7-1f1e9 Flag For Bangladesh
+1f1e7-1f1ea Flag For Belgium
+1f1e7-1f1eb Flag For Burkina Faso
+1f1e7-1f1ec Flag For Bulgaria
+1f1e7-1f1ed Flag For Bahrain
+1f1e7-1f1ee Flag For Burundi
+1f1e7-1f1ef Flag For Benin
+1f1e7-1f1f1 Flag For Saint Barthélemy
+1f1e7-1f1f2 Flag For Bermuda
+1f1e7-1f1f3 Flag For Brunei
+1f1e7-1f1f4 Flag For Bolivia
+1f1e7-1f1f6 Flag For Caribbean Netherlands
+1f1e7-1f1f7 Flag For Brazil
+1f1e7-1f1f8 Flag For Bahamas
+1f1e7-1f1f9 Flag For Bhutan
+1f1e7-1f1fb Flag For Bouvet Island
+1f1e7-1f1fc Flag For Botswana
+1f1e7-1f1fe Flag For Belarus
+1f1e7-1f1ff Flag For Belize
+1f1e8-1f1e6 Flag For Canada
+1f1e8-1f1e8 Flag For Cocos (Keeling) Islands
+1f1e8-1f1e9 Flag For Congo - Kinshasa
+1f1e8-1f1eb Flag For Central African Republic
+1f1e8-1f1ec Flag For Congo - Brazzaville
+1f1e8-1f1ed Flag For Switzerland
+1f1e8-1f1ee Flag For Côte D’Ivoire
+1f1e8-1f1f0 Flag For Cook Islands
+1f1e8-1f1f1 Flag For Chile
+1f1e8-1f1f2 Flag For Cameroon
+1f1e8-1f1f3 Flag For China
+1f1e8-1f1f4 Flag For Colombia
+1f1e8-1f1f5 Flag For Clipperton Island
+1f1e8-1f1f7 Flag For Costa Rica
+1f1e8-1f1fa Flag For Cuba
+1f1e8-1f1fb Flag For Cape Verde
+1f1e8-1f1fc Flag For Curaçao
+1f1e8-1f1fd Flag For Christmas Island
+1f1e8-1f1fe Flag For Cyprus
+1f1e8-1f1ff Flag For Czech Republic
+1f1e9-1f1ea Flag For Germany
+1f1e9-1f1ec Flag For Diego Garcia
+1f1e9-1f1ef Flag For Djibouti
+1f1e9-1f1f0 Flag For Denmark
+1f1e9-1f1f2 Flag For Dominica
+1f1e9-1f1f4 Flag For Dominican Republic
+1f1e9-1f1ff Flag For Algeria
+1f1ea-1f1e6 Flag For Ceuta And Melilla
+1f1ea-1f1e8 Flag For Ecuador
+1f1ea-1f1ea Flag For Estonia
+1f1ea-1f1ec Flag For Egypt
+1f1ea-1f1ed Flag For Western Sahara
+1f1ea-1f1f7 Flag For Eritrea
+1f1ea-1f1f8 Flag For Spain
+1f1ea-1f1f9 Flag For Ethiopia
+1f1ea-1f1fa Flag For European Union
+1f1eb-1f1ee Flag For Finland
+1f1eb-1f1ef Flag For Fiji
+1f1eb-1f1f0 Flag For Falkland Islands
+1f1eb-1f1f2 Flag For Micronesia
+1f1eb-1f1f4 Flag For Faroe Islands
+1f1eb-1f1f7 Flag For France
+1f1ec-1f1e6 Flag For Gabon
+1f1ec-1f1e7 Flag For United Kingdom
+1f1ec-1f1e9 Flag For Grenada
+1f1ec-1f1ea Flag For Georgia
+1f1ec-1f1eb Flag For French Guiana
+1f1ec-1f1ec Flag For Guernsey
+1f1ec-1f1ed Flag For Ghana
+1f1ec-1f1ee Flag For Gibraltar
+1f1ec-1f1f1 Flag For Greenland
+1f1ec-1f1f2 Flag For Gambia
+1f1ec-1f1f3 Flag For Guinea
+1f1ec-1f1f5 Flag For Guadeloupe
+1f1ec-1f1f6 Flag For Equatorial Guinea
+1f1ec-1f1f7 Flag For Greece
+1f1ec-1f1f8 Flag For South Georgia & South Sandwich Islands
+1f1ec-1f1f9 Flag For Guatemala
+1f1ec-1f1fa Flag For Guam
+1f1ec-1f1fc Flag For Guinea-Bissau
+1f1ec-1f1fe Flag For Guyana
+1f1ed-1f1f0 Flag For Hong Kong
+1f1ed-1f1f2 Flag For Heard & McDonald Islands
+1f1ed-1f1f3 Flag For Honduras
+1f1ed-1f1f7 Flag For Croatia
+1f1ed-1f1f9 Flag For Haiti
+1f1ed-1f1fa Flag For Hungary
+1f1ee-1f1e8 Flag For Canary Islands
+1f1ee-1f1e9 Flag For Indonesia
+1f1ee-1f1ea Flag For Ireland
+1f1ee-1f1f1 Flag For Israel
+1f1ee-1f1f2 Flag For Isle Of Man
+1f1ee-1f1f3 Flag For India
+1f1ee-1f1f4 Flag For British Indian Ocean Territory
+1f1ee-1f1f6 Flag For Iraq
+1f1ee-1f1f7 Flag For Iran
+1f1ee-1f1f8 Flag For Iceland
+1f1ee-1f1f9 Flag For Italy
+1f1ef-1f1ea Flag For Jersey
+1f1ef-1f1f2 Flag For Jamaica
+1f1ef-1f1f4 Flag For Jordan
+1f1ef-1f1f5 Flag For Japan
+1f1f0-1f1ea Flag For Kenya
+1f1f0-1f1ec Flag For Kyrgyzstan
+1f1f0-1f1ed Flag For Cambodia
+1f1f0-1f1ee Flag For Kiribati
+1f1f0-1f1f2 Flag For Comoros
+1f1f0-1f1f3 Flag For Saint Kitts And Nevis
+1f1f0-1f1f5 Flag For North Korea
+1f1f0-1f1f7 Flag For South Korea
+1f1f0-1f1fc Flag For Kuwait
+1f1f0-1f1fe Flag For Cayman Islands
+1f1f0-1f1ff Flag For Kazakhstan
+1f1f1-1f1e6 Flag For Laos
+1f1f1-1f1e7 Flag For Lebanon
+1f1f1-1f1e8 Flag For Saint Lucia
+1f1f1-1f1ee Flag For Liechtenstein
+1f1f1-1f1f0 Flag For Sri Lanka
+1f1f1-1f1f7 Flag For Liberia
+1f1f1-1f1f8 Flag For Lesotho
+1f1f1-1f1f9 Flag For Lithuania
+1f1f1-1f1fa Flag For Luxembourg
+1f1f1-1f1fb Flag For Latvia
+1f1f1-1f1fe Flag For Libya
+1f1f2-1f1e6 Flag For Morocco
+1f1f2-1f1e8 Flag For Monaco
+1f1f2-1f1e9 Flag For Moldova
+1f1f2-1f1ea Flag For Montenegro
+1f1f2-1f1eb Flag For Saint Martin
+1f1f2-1f1ec Flag For Madagascar
+1f1f2-1f1ed Flag For Marshall Islands
+1f1f2-1f1f0 Flag For Macedonia
+1f1f2-1f1f1 Flag For Mali
+1f1f2-1f1f2 Flag For Myanmar (Burma)
+1f1f2-1f1f3 Flag For Mongolia
+1f1f2-1f1f4 Flag For Macau
+1f1f2-1f1f5 Flag For Northern Mariana Islands
+1f1f2-1f1f6 Flag For Martinique
+1f1f2-1f1f7 Flag For Mauritania
+1f1f2-1f1f8 Flag For Montserrat
+1f1f2-1f1f9 Flag For Malta
+1f1f2-1f1fa Flag For Mauritius
+1f1f2-1f1fb Flag For Maldives
+1f1f2-1f1fc Flag For Malawi
+1f1f2-1f1fd Flag For Mexico
+1f1f2-1f1fe Flag For Malaysia
+1f1f2-1f1ff Flag For Mozambique
+1f1f3-1f1e6 Flag For Namibia
+1f1f3-1f1e8 Flag For New Caledonia
+1f1f3-1f1ea Flag For Niger
+1f1f3-1f1eb Flag For Norfolk Island
+1f1f3-1f1ec Flag For Nigeria
+1f1f3-1f1ee Flag For Nicaragua
+1f1f3-1f1f1 Flag For Netherlands
+1f1f3-1f1f4 Flag For Norway
+1f1f3-1f1f5 Flag For Nepal
+1f1f3-1f1f7 Flag For Nauru
+1f1f3-1f1fa Flag For Niue
+1f1f3-1f1ff Flag For New Zealand
+1f1f4-1f1f2 Flag For Oman
+1f1f5-1f1e6 Flag For Panama
+1f1f5-1f1ea Flag For Peru
+1f1f5-1f1eb Flag For French Polynesia
+1f1f5-1f1ec Flag For Papua New Guinea
+1f1f5-1f1ed Flag For Philippines
+1f1f5-1f1f0 Flag For Pakistan
+1f1f5-1f1f1 Flag For Poland
+1f1f5-1f1f2 Flag For Saint Pierre And Miquelon
+1f1f5-1f1f3 Flag For Pitcairn Islands
+1f1f5-1f1f7 Flag For Puerto Rico
+1f1f5-1f1f8 Flag For Palestinian Territories
+1f1f5-1f1f9 Flag For Portugal
+1f1f5-1f1fc Flag For Palau
+1f1f5-1f1fe Flag For Paraguay
+1f1f6-1f1e6 Flag For Qatar
+1f1f7-1f1ea Flag For Réunion
+1f1f7-1f1f4 Flag For Romania
+1f1f7-1f1f8 Flag For Serbia
+1f1f7-1f1fa Flag For Russia
+1f1f7-1f1fc Flag For Rwanda
+1f1f8-1f1e6 Flag For Saudi Arabia
+1f1f8-1f1e7 Flag For Solomon Islands
+1f1f8-1f1e8 Flag For Seychelles
+1f1f8-1f1e9 Flag For Sudan
+1f1f8-1f1ea Flag For Sweden
+1f1f8-1f1ec Flag For Singapore
+1f1f8-1f1ed Flag For Saint Helena
+1f1f8-1f1ee Flag For Slovenia
+1f1f8-1f1ef Flag For Svalbard And Jan Mayen
+1f1f8-1f1f0 Flag For Slovakia
+1f1f8-1f1f1 Flag For Sierra Leone
+1f1f8-1f1f2 Flag For San Marino
+1f1f8-1f1f3 Flag For Senegal
+1f1f8-1f1f4 Flag For Somalia
+1f1f8-1f1f7 Flag For Suriname
+1f1f8-1f1f8 Flag For South Sudan
+1f1f8-1f1f9 Flag For São Tomé And Príncipe
+1f1f8-1f1fb Flag For El Salvador
+1f1f8-1f1fd Flag For Sint Maarten
+1f1f8-1f1fe Flag For Syria
+1f1f8-1f1ff Flag For Swaziland
+1f1f9-1f1e6 Flag For Tristan Da Cunha
+1f1f9-1f1e8 Flag For Turks And Caicos Islands
+1f1f9-1f1e9 Flag For Chad
+1f1f9-1f1eb Flag For French Southern Territories
+1f1f9-1f1ec Flag For Togo
+1f1f9-1f1ed Flag For Thailand
+1f1f9-1f1ef Flag For Tajikistan
+1f1f9-1f1f0 Flag For Tokelau
+1f1f9-1f1f1 Flag For Timor-Leste
+1f1f9-1f1f2 Flag For Turkmenistan
+1f1f9-1f1f3 Flag For Tunisia
+1f1f9-1f1f4 Flag For Tonga
+1f1f9-1f1f7 Flag For Turkey
+1f1f9-1f1f9 Flag For Trinidad And Tobago
+1f1f9-1f1fb Flag For Tuvalu
+1f1f9-1f1fc Flag For Taiwan
+1f1f9-1f1ff Flag For Tanzania
+1f1fa-1f1e6 Flag For Ukraine
+1f1fa-1f1ec Flag For Uganda
+1f1fa-1f1f2 Flag For U.S. Outlying Islands
+1f1fa-1f1f8 Flag For United States
+1f1fa-1f1fe Flag For Uruguay
+1f1fa-1f1ff Flag For Uzbekistan
+1f1fb-1f1e6 Flag For Vatican City
+1f1fb-1f1e8 Flag For St. Vincent & Grenadines
+1f1fb-1f1ea Flag For Venezuela
+1f1fb-1f1ec Flag For British Virgin Islands
+1f1fb-1f1ee Flag For U.S. Virgin Islands
+1f1fb-1f1f3 Flag For Vietnam
+1f1fb-1f1fa Flag For Vanuatu
+1f1fc-1f1eb Flag For Wallis And Futuna
+1f1fc-1f1f8 Flag For Samoa
+1f1fd-1f1f0 Flag For Kosovo
+1f1fe-1f1ea Flag For Yemen
+1f1fe-1f1f9 Flag For Mayotte
+1f1ff-1f1e6 Flag For South Africa
+1f1ff-1f1f2 Flag For Zambia
+1f1ff-1f1fc Flag For Zimbabwe
+1f201 Squared Katakana Koko
+1f202 Squared Katakana Sa
+1f232 Squared Cjk Unified Ideograph-7981
+1f233 Squared Cjk Unified Ideograph-7a7a
+1f234 Squared Cjk Unified Ideograph-5408
+1f235 Squared Cjk Unified Ideograph-6e80
+1f236 Squared Cjk Unified Ideograph-6709
+1f237 Squared Cjk Unified Ideograph-6708
+1f238 Squared Cjk Unified Ideograph-7533
+1f239 Squared Cjk Unified Ideograph-5272
+1f23a Squared Cjk Unified Ideograph-55b6
+1f250 Circled Ideograph Advantage
+1f251 Circled Ideograph Accept
+1f300 Cyclone
+1f301 Foggy
+1f302 Closed Umbrella
+1f303 Night With Stars
+1f304 Sunrise Over Mountains
+1f305 Sunrise
+1f306 Cityscape At Dusk
+1f307 Sunset Over Buildings
+1f308 Rainbow
+1f309 Bridge At Night
+1f30a Water Wave
+1f30b Volcano
+1f30c Milky Way
+1f30d Earth Globe Europe-africa
+1f30e Earth Globe Americas
+1f30f Earth Globe Asia-australia
+1f310 Globe With Meridians
+1f311 New Moon Symbol
+1f312 Waxing Crescent Moon Symbol
+1f313 First Quarter Moon Symbol
+1f314 Waxing Gibbous Moon Symbol
+1f315 Full Moon Symbol
+1f316 Waning Gibbous Moon Symbol
+1f317 Last Quarter Moon Symbol
+1f318 Waning Crescent Moon Symbol
+1f319 Crescent Moon
+1f31a New Moon With Face
+1f31b First Quarter Moon With Face
+1f31c Last Quarter Moon With Face
+1f31d Full Moon With Face
+1f31e Sun With Face
+1f31f Glowing Star
+1f320 Shooting Star
+1f330 Chestnut
+1f331 Seedling
+1f332 Evergreen Tree
+1f333 Deciduous Tree
+1f334 Palm Tree
+1f335 Cactus
+1f337 Tulip
+1f338 Cherry Blossom
+1f339 Rose
+1f33a Hibiscus
+1f33b Sunflower
+1f33c Blossom
+1f33d Ear Of Maize
+1f33e Ear Of Rice
+1f33f Herb
+1f340 Four Leaf Clover
+1f341 Maple Leaf
+1f342 Fallen Leaf
+1f343 Leaf Fluttering In Wind
+1f344 Mushroom
+1f345 Tomato
+1f346 Aubergine
+1f347 Grapes
+1f348 Melon
+1f349 Watermelon
+1f34a Tangerine
+1f34b Lemon
+1f34c Banana
+1f34d Pineapple
+1f34e Red Apple
+1f34f Green Apple
+1f350 Pear
+1f351 Peach
+1f352 Cherries
+1f353 Strawberry
+1f354 Hamburger
+1f355 Slice Of Pizza
+1f356 Meat On Bone
+1f357 Poultry Leg
+1f358 Rice Cracker
+1f359 Rice Ball
+1f35a Cooked Rice
+1f35b Curry And Rice
+1f35c Steaming Bowl
+1f35d Spaghetti
+1f35e Bread
+1f35f French Fries
+1f360 Roasted Sweet Potato
+1f361 Dango
+1f362 Oden
+1f363 Sushi
+1f364 Fried Shrimp
+1f365 Fish Cake With Swirl Design
+1f366 Soft Ice Cream
+1f367 Shaved Ice
+1f368 Ice Cream
+1f369 Doughnut
+1f36a Cookie
+1f36b Chocolate Bar
+1f36c Candy
+1f36d Lollipop
+1f36e Custard
+1f36f Honey Pot
+1f370 Shortcake
+1f371 Bento Box
+1f372 Pot Of Food
+1f373 Cooking
+1f374 Fork And Knife
+1f375 Teacup Without Handle
+1f376 Sake Bottle And Cup
+1f377 Wine Glass
+1f378 Cocktail Glass
+1f379 Tropical Drink
+1f37a Beer Mug
+1f37b Clinking Beer Mugs
+1f37c Baby Bottle
+1f380 Ribbon
+1f381 Wrapped Present
+1f382 Birthday Cake
+1f383 Jack-o-lantern
+1f384 Christmas Tree
+1f385 Father Christmas
+1f386 Fireworks
+1f387 Firework Sparkler
+1f388 Balloon
+1f389 Party Popper
+1f38a Confetti Ball
+1f38b Tanabata Tree
+1f38c Crossed Flags
+1f38d Pine Decoration
+1f38e Japanese Dolls
+1f38f Carp Streamer
+1f390 Wind Chime
+1f391 Moon Viewing Ceremony
+1f392 School Satchel
+1f393 Graduation Cap
+1f3a0 Carousel Horse
+1f3a1 Ferris Wheel
+1f3a2 Roller Coaster
+1f3a3 Fishing Pole And Fish
+1f3a4 Microphone
+1f3a5 Movie Camera
+1f3a6 Cinema
+1f3a7 Headphone
+1f3a8 Artist Palette
+1f3a9 Top Hat
+1f3aa Circus Tent
+1f3ab Ticket
+1f3ac Clapper Board
+1f3ad Performing Arts
+1f3ae Video Game
+1f3af Direct Hit
+1f3b0 Slot Machine
+1f3b1 Billiards
+1f3b2 Game Die
+1f3b3 Bowling
+1f3b4 Flower Playing Cards
+1f3b5 Musical Note
+1f3b6 Multiple Musical Notes
+1f3b7 Saxophone
+1f3b8 Guitar
+1f3b9 Musical Keyboard
+1f3ba Trumpet
+1f3bb Violin
+1f3bc Musical Score
+1f3bd Running Shirt With Sash
+1f3be Tennis Racquet And Ball
+1f3bf Ski And Ski Boot
+1f3c0 Basketball And Hoop
+1f3c1 Chequered Flag
+1f3c2 Snowboarder
+1f3c3 Runner
+1f3c4 Surfer
+1f3c6 Trophy
+1f3c7 Horse Racing
+1f3c8 American Football
+1f3c9 Rugby Football
+1f3ca Swimmer
+1f3e0 House Building
+1f3e1 House With Garden
+1f3e2 Office Building
+1f3e3 Japanese Post Office
+1f3e4 European Post Office
+1f3e5 Hospital
+1f3e6 Bank
+1f3e7 Automated Teller Machine
+1f3e8 Hotel
+1f3e9 Love Hotel
+1f3ea Convenience Store
+1f3eb School
+1f3ec Department Store
+1f3ed Factory
+1f3ee Izakaya Lantern
+1f3ef Japanese Castle
+1f3f0 European Castle
+1f400 Rat
+1f401 Mouse
+1f402 Ox
+1f403 Water Buffalo
+1f404 Cow
+1f405 Tiger
+1f406 Leopard
+1f407 Rabbit
+1f408 Cat
+1f409 Dragon
+1f40a Crocodile
+1f40b Whale
+1f40c Snail
+1f40d Snake
+1f40e Horse
+1f40f Ram
+1f410 Goat
+1f411 Sheep
+1f412 Monkey
+1f413 Rooster
+1f414 Chicken
+1f415 Dog
+1f416 Pig
+1f417 Boar
+1f418 Elephant
+1f419 Octopus
+1f41a Spiral Shell
+1f41b Bug
+1f41c Ant
+1f41d Honeybee
+1f41e Lady Beetle
+1f41f Fish
+1f420 Tropical Fish
+1f421 Blowfish
+1f422 Turtle
+1f423 Hatching Chick
+1f424 Baby Chick
+1f425 Front-facing Baby Chick
+1f426 Bird
+1f427 Penguin
+1f428 Koala
+1f429 Poodle
+1f42a Dromedary Camel
+1f42b Bactrian Camel
+1f42c Dolphin
+1f42d Mouse Face
+1f42e Cow Face
+1f42f Tiger Face
+1f430 Rabbit Face
+1f431 Cat Face
+1f432 Dragon Face
+1f433 Spouting Whale
+1f434 Horse Face
+1f435 Monkey Face
+1f436 Dog Face
+1f437 Pig Face
+1f438 Frog Face
+1f439 Hamster Face
+1f43a Wolf Face
+1f43b Bear Face
+1f43c Panda Face
+1f43d Pig Nose
+1f43e Paw Prints
+1f440 Eyes
+1f442 Ear
+1f443 Nose
+1f444 Mouth
+1f445 Tongue
+1f446 White Up Pointing Backhand Index
+1f447 White Down Pointing Backhand Index
+1f448 White Left Pointing Backhand Index
+1f449 White Right Pointing Backhand Index
+1f44a Fisted Hand Sign
+1f44b Waving Hand Sign
+1f44c Ok Hand Sign
+1f44d Thumbs Up Sign
+1f44e Thumbs Down Sign
+1f44f Clapping Hands Sign
+1f450 Open Hands Sign
+1f451 Crown
+1f452 Womans Hat
+1f453 Eyeglasses
+1f454 Necktie
+1f455 T-shirt
+1f456 Jeans
+1f457 Dress
+1f458 Kimono
+1f459 Bikini
+1f45a Womans Clothes
+1f45b Purse
+1f45c Handbag
+1f45d Pouch
+1f45e Mans Shoe
+1f45f Athletic Shoe
+1f460 High-heeled Shoe
+1f461 Womans Sandal
+1f462 Womans Boots
+1f463 Footprints
+1f464 Bust In Silhouette
+1f465 Busts In Silhouette
+1f466 Boy
+1f467 Girl
+1f468 Man
+1f469 Woman
+1f46a Family
+1f46b Man And Woman Holding Hands
+1f46c Two Men Holding Hands
+1f46d Two Women Holding Hands
+1f46e Police Officer
+1f46f Woman With Bunny Ears
+1f470 Bride With Veil
+1f471 Person With Blond Hair
+1f472 Man With Gua Pi Mao
+1f473 Man With Turban
+1f474 Older Man
+1f475 Older Woman
+1f476 Baby
+1f477 Construction Worker
+1f478 Princess
+1f479 Japanese Ogre
+1f47a Japanese Goblin
+1f47b Ghost
+1f47c Baby Angel
+1f47d Extraterrestrial Alien
+1f47e Alien Monster
+1f47f Imp
+1f480 Skull
+1f481 Information Desk Person
+1f482 Guardsman
+1f483 Dancer
+1f484 Lipstick
+1f485 Nail Polish
+1f486 Face Massage
+1f487 Haircut
+1f488 Barber Pole
+1f489 Syringe
+1f48a Pill
+1f48b Kiss Mark
+1f48c Love Letter
+1f48d Ring
+1f48e Gem Stone
+1f48f Kiss
+1f490 Bouquet
+1f491 Couple With Heart
+1f492 Wedding
+1f493 Beating Heart
+1f494 Broken Heart
+1f495 Two Hearts
+1f496 Sparkling Heart
+1f497 Growing Heart
+1f498 Heart With Arrow
+1f499 Blue Heart
+1f49a Green Heart
+1f49b Yellow Heart
+1f49c Purple Heart
+1f49d Heart With Ribbon
+1f49e Revolving Hearts
+1f49f Heart Decoration
+1f4a0 Diamond Shape With A Dot Inside
+1f4a1 Electric Light Bulb
+1f4a2 Anger Symbol
+1f4a3 Bomb
+1f4a4 Sleeping Symbol
+1f4a5 Collision Symbol
+1f4a6 Splashing Sweat Symbol
+1f4a7 Droplet
+1f4a8 Dash Symbol
+1f4a9 Pile Of Poo
+1f4aa Flexed Biceps
+1f4ab Dizzy Symbol
+1f4ac Speech Balloon
+1f4ad Thought Balloon
+1f4ae White Flower
+1f4af Hundred Points Symbol
+1f4b0 Money Bag
+1f4b1 Currency Exchange
+1f4b2 Heavy Dollar Sign
+1f4b3 Credit Card
+1f4b4 Banknote With Yen Sign
+1f4b5 Banknote With Dollar Sign
+1f4b6 Banknote With Euro Sign
+1f4b7 Banknote With Pound Sign
+1f4b8 Money With Wings
+1f4b9 Chart With Upwards Trend And Yen Sign
+1f4ba Seat
+1f4bb Personal Computer
+1f4bc Briefcase
+1f4bd Minidisc
+1f4be Floppy Disk
+1f4bf Optical Disc
+1f4c0 Dvd
+1f4c1 File Folder
+1f4c2 Open File Folder
+1f4c3 Page With Curl
+1f4c4 Page Facing Up
+1f4c5 Calendar
+1f4c6 Tear-off Calendar
+1f4c7 Card Index
+1f4c8 Chart With Upwards Trend
+1f4c9 Chart With Downwards Trend
+1f4ca Bar Chart
+1f4cb Clipboard
+1f4cc Pushpin
+1f4cd Round Pushpin
+1f4ce Paperclip
+1f4cf Straight Ruler
+1f4d0 Triangular Ruler
+1f4d1 Bookmark Tabs
+1f4d2 Ledger
+1f4d3 Notebook
+1f4d4 Notebook With Decorative Cover
+1f4d5 Closed Book
+1f4d6 Open Book
+1f4d7 Green Book
+1f4d8 Blue Book
+1f4d9 Orange Book
+1f4da Books
+1f4db Name Badge
+1f4dc Scroll
+1f4dd Memo
+1f4de Telephone Receiver
+1f4df Pager
+1f4e0 Fax Machine
+1f4e1 Satellite Antenna
+1f4e2 Public Address Loudspeaker
+1f4e3 Cheering Megaphone
+1f4e4 Outbox Tray
+1f4e5 Inbox Tray
+1f4e6 Package
+1f4e7 E-mail Symbol
+1f4e8 Incoming Envelope
+1f4e9 Envelope With Downwards Arrow Above
+1f4ea Closed Mailbox With Lowered Flag
+1f4eb Closed Mailbox With Raised Flag
+1f4ec Open Mailbox With Raised Flag
+1f4ed Open Mailbox With Lowered Flag
+1f4ee Postbox
+1f4ef Postal Horn
+1f4f0 Newspaper
+1f4f1 Mobile Phone
+1f4f2 Mobile Phone With Rightwards Arrow At Left
+1f4f3 Vibration Mode
+1f4f4 Mobile Phone Off
+1f4f5 No Mobile Phones
+1f4f6 Antenna With Bars
+1f4f7 Camera
+1f4f9 Video Camera
+1f4fa Television
+1f4fb Radio
+1f4fc Videocassette
+1f500 Twisted Rightwards Arrows
+1f501 Clockwise Rightwards And Leftwards Open Circle Arrows
+1f502 Clockwise Rightwards And Leftwards Open Circle Arrows With Circled One Overlay
+1f503 Clockwise Downwards And Upwards Open Circle Arrows
+1f504 Anticlockwise Downwards And Upwards Open Circle Arrows
+1f505 Low Brightness Symbol
+1f506 High Brightness Symbol
+1f507 Speaker With Cancellation Stroke
+1f508 Speaker
+1f509 Speaker With One Sound Wave
+1f50a Speaker With Three Sound Waves
+1f50b Battery
+1f50c Electric Plug
+1f50d Left-pointing Magnifying Glass
+1f50e Right-pointing Magnifying Glass
+1f50f Lock With Ink Pen
+1f510 Closed Lock With Key
+1f511 Key
+1f512 Lock
+1f513 Open Lock
+1f514 Bell
+1f515 Bell With Cancellation Stroke
+1f516 Bookmark
+1f517 Link Symbol
+1f518 Radio Button
+1f519 Back With Leftwards Arrow Above
+1f51a End With Leftwards Arrow Above
+1f51b On With Exclamation Mark With Left Right Arrow Above
+1f51c Soon With Rightwards Arrow Above
+1f51d Top With Upwards Arrow Above
+1f51e No One Under Eighteen Symbol
+1f51f Keycap Ten
+1f520 Input Symbol For Latin Capital Letters
+1f521 Input Symbol For Latin Small Letters
+1f522 Input Symbol For Numbers
+1f523 Input Symbol For Symbols
+1f524 Input Symbol For Latin Letters
+1f525 Fire
+1f526 Electric Torch
+1f527 Wrench
+1f528 Hammer
+1f529 Nut And Bolt
+1f52a Hocho
+1f52b Pistol
+1f52c Microscope
+1f52d Telescope
+1f52e Crystal Ball
+1f52f Six Pointed Star With Middle Dot
+1f530 Japanese Symbol For Beginner
+1f531 Trident Emblem
+1f532 Black Square Button
+1f533 White Square Button
+1f534 Large Red Circle
+1f535 Large Blue Circle
+1f536 Large Orange Diamond
+1f537 Large Blue Diamond
+1f538 Small Orange Diamond
+1f539 Small Blue Diamond
+1f53a Up-pointing Red Triangle
+1f53b Down-pointing Red Triangle
+1f53c Up-pointing Small Red Triangle
+1f53d Down-pointing Small Red Triangle
+1f550 Clock Face One Oclock
+1f551 Clock Face Two Oclock
+1f552 Clock Face Three Oclock
+1f553 Clock Face Four Oclock
+1f554 Clock Face Five Oclock
+1f555 Clock Face Six Oclock
+1f556 Clock Face Seven Oclock
+1f557 Clock Face Eight Oclock
+1f558 Clock Face Nine Oclock
+1f559 Clock Face Ten Oclock
+1f55a Clock Face Eleven Oclock
+1f55b Clock Face Twelve Oclock
+1f55c Clock Face One-thirty
+1f55d Clock Face Two-thirty
+1f55e Clock Face Three-thirty
+1f55f Clock Face Four-thirty
+1f560 Clock Face Five-thirty
+1f561 Clock Face Six-thirty
+1f562 Clock Face Seven-thirty
+1f563 Clock Face Eight-thirty
+1f564 Clock Face Nine-thirty
+1f565 Clock Face Ten-thirty
+1f566 Clock Face Eleven-thirty
+1f567 Clock Face Twelve-thirty
+1f5fb Mount Fuji
+1f5fc Tokyo Tower
+1f5fd Statue Of Liberty
+1f5fe Silhouette Of Japan
+1f5ff Moyai
+1f601 Grinning Face With Smiling Eyes
+1f602 Face With Tears Of Joy
+1f603 Smiling Face With Open Mouth
+1f604 Smiling Face With Open Mouth And Smiling Eyes
+1f605 Smiling Face With Open Mouth And Cold Sweat
+1f606 Smiling Face With Open Mouth And Tightly-closed Eyes
+1f607 Smiling Face With Halo
+1f608 Smiling Face With Horns
+1f609 Winking Face
+1f60a Smiling Face With Smiling Eyes
+1f60b Face Savouring Delicious Food
+1f60c Relieved Face
+1f60d Smiling Face With Heart-shaped Eyes
+1f60e Smiling Face With Sunglasses
+1f60f Smirking Face
+1f610 Neutral Face
+1f612 Unamused Face
+1f613 Face With Cold Sweat
+1f614 Pensive Face
+1f616 Confounded Face
+1f618 Face Throwing A Kiss
+1f61a Kissing Face With Closed Eyes
+1f61c Face With Stuck-out Tongue And Winking Eye
+1f61d Face With Stuck-out Tongue And Tightly-closed Eyes
+1f61e Disappointed Face
+1f620 Angry Face
+1f621 Pouting Face
+1f622 Crying Face
+1f623 Persevering Face
+1f624 Face With Look Of Triumph
+1f625 Disappointed But Relieved Face
+1f628 Fearful Face
+1f629 Weary Face
+1f62a Sleepy Face
+1f62b Tired Face
+1f62d Loudly Crying Face
+1f630 Face With Open Mouth And Cold Sweat
+1f631 Face Screaming In Fear
+1f632 Astonished Face
+1f633 Flushed Face
+1f635 Dizzy Face
+1f636 Face Without Mouth
+1f637 Face With Medical Mask
+1f638 Grinning Cat Face With Smiling Eyes
+1f639 Cat Face With Tears Of Joy
+1f63a Smiling Cat Face With Open Mouth
+1f63b Smiling Cat Face With Heart-shaped Eyes
+1f63c Cat Face With Wry Smile
+1f63d Kissing Cat Face With Closed Eyes
+1f63e Pouting Cat Face
+1f63f Crying Cat Face
+1f640 Weary Cat Face
+1f645 Face With No Good Gesture
+1f646 Face With Ok Gesture
+1f647 Person Bowing Deeply
+1f648 See-no-evil Monkey
+1f649 Hear-no-evil Monkey
+1f64a Speak-no-evil Monkey
+1f64b Happy Person Raising One Hand
+1f64c Person Raising Both Hands In Celebration
+1f64d Person Frowning
+1f64e Person With Pouting Face
+1f64f Person With Folded Hands
+1f680 Rocket
+1f681 Helicopter
+1f682 Steam Locomotive
+1f683 Railway Car
+1f684 High-speed Train
+1f685 High-speed Train With Bullet Nose
+1f686 Train
+1f687 Metro
+1f688 Light Rail
+1f689 Station
+1f68a Tram
+1f68b Tram Car
+1f68c Bus
+1f68d Oncoming Bus
+1f68e Trolleybus
+1f68f Bus Stop
+1f690 Minibus
+1f691 Ambulance
+1f692 Fire Engine
+1f693 Police Car
+1f694 Oncoming Police Car
+1f695 Taxi
+1f696 Oncoming Taxi
+1f697 Automobile
+1f698 Oncoming Automobile
+1f699 Recreational Vehicle
+1f69a Delivery Truck
+1f69b Articulated Lorry
+1f69c Tractor
+1f69d Monorail
+1f69e Mountain Railway
+1f69f Suspension Railway
+1f6a0 Mountain Cableway
+1f6a1 Aerial Tramway
+1f6a2 Ship
+1f6a3 Rowboat
+1f6a4 Speedboat
+1f6a5 Horizontal Traffic Light
+1f6a6 Vertical Traffic Light
+1f6a7 Construction Sign
+1f6a8 Police Cars Revolving Light
+1f6a9 Triangular Flag On Post
+1f6aa Door
+1f6ab No Entry Sign
+1f6ac Smoking Symbol
+1f6ad No Smoking Symbol
+1f6ae Put Litter In Its Place Symbol
+1f6af Do Not Litter Symbol
+1f6b0 Potable Water Symbol
+1f6b1 Non-potable Water Symbol
+1f6b2 Bicycle
+1f6b3 No Bicycles
+1f6b4 Bicyclist
+1f6b5 Mountain Bicyclist
+1f6b6 Pedestrian
+1f6b7 No Pedestrians
+1f6b8 Children Crossing
+1f6b9 Mens Symbol
+1f6ba Womens Symbol
+1f6bb Restroom
+1f6bc Baby Symbol
+1f6bd Toilet
+1f6be Water Closet
+1f6bf Shower
+1f6c0 Bath
+1f6c1 Bathtub
+1f6c2 Passport Control
+1f6c3 Customs
+1f6c4 Baggage Claim
+1f6c5 Left Luggage
+23e9 Black Right-pointing Double Triangle
+23ea Black Left-pointing Double Triangle
+23eb Black Up-pointing Double Triangle
+23ec Black Down-pointing Double Triangle
+23ed Black Right-pointing Double Triangle With Vertical Bar
+23ee Black Left-pointing Double Triangle With Vertical Bar
+23ef Black Right-pointing Triangle With Double Vertical Bar
+23f0 Alarm Clock
+23f1 Stopwatch
+23f2 Timer Clock
+23f3 Hourglass With Flowing Sand
+26ce Ophiuchus
+2705 White Heavy Check Mark
+270a Raised Fist
+270b Raised Hand
+2728 Sparkles
+274c Cross Mark
+274e Negative Squared Cross Mark
+2753 Black Question Mark Ornament
+2754 White Question Mark Ornament
+2755 White Exclamation Mark Ornament
+2795 Heavy Plus Sign
+2796 Heavy Minus Sign
+2797 Heavy Division Sign
+27b0 Curly Loop
+27bf Double Curly Loop

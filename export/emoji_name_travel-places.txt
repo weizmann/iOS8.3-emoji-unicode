@@ -1,0 +1,122 @@
+🚃  u1f683 Railway Car
+🚞  u1f69e Mountain Railway
+🚂  u1f682 Steam Locomotive
+🚋  u1f68b Tram Car
+🚝 u1f69d Monorail
+🚄  u1f684 High-Speed Train
+🚅  u1f685 High-Speed Train With Bullet Nose
+🚆 u1f684 1f686 Train
+🚇 u1f687 Metro
+🚈  u1f688 Light Rail
+🚉 u1f689 Station
+🚊 u1f68a Tram
+🚌 u1f68c 1f68d 1f68e 1f690 Bus
+🚍  u1f68d Oncoming Bus
+🚎 u1f68e Trolleybus
+🚐 u1f690 Minibus
+🚑 u1f691 Ambulance
+🚒  u1f692 Fire Engine
+🚓  u1f693 1f694 Police Car
+🚔  u1f694 Oncoming Police Car
+🚨  u1f6a8 Police Cars Revolving Light
+🚕 u1f695 1f696 Taxi
+🚖  u1f696 Oncoming Taxi
+🚗 u1f697 1f698 Automobile
+🚘  u1f698 Oncoming Automobile
+🚙  u1f699 Recreational Vehicle
+🚚  u1f69a Delivery Truck
+🚛  u1f69b Articulated Lorry
+🚜 u1f69c Tractor
+🚲 u1f6b2 Bicycle
+🚏  u1f68f Bus Stop
+⛽ Fuel Pump
+🚧  u1f6a7 Construction Sign
+🚦  u1f6a6 Vertical Traffic Light
+🚥  u1f6a5 Horizontal Traffic Light
+🚀 u1f680 Rocket
+🚁 u1f681 Helicopter
+✈️ Airplane
+💺 u1f4ba Seat
+⚓ Anchor
+🚢 u1f6a2 Ship
+🚤 u1f6a4 Speedboat
+⛵ Sailboat
+🚡  u1f6a1 Aerial Tramway
+🚠  u1f6a0 Mountain Cableway
+🚟  u1f69f Suspension Railway
+🛂  u1f6c2 Passport Control
+🛃 u1f6c3 Customs
+🛄  u1f6c4 Baggage Claim
+🛅  u1f6c5 Left Luggage
+💴  u1f4b4 Banknote With Yen Sign
+💶  u1f4b6 Banknote With Euro Sign
+💷  u1f4b7 Banknote With Pound Sign
+💵  u1f4b5 Banknote With Dollar Sign
+🗽  u1f5fd Statue Of Liberty
+🗿 u1f5ff Moyai
+🌁 u1f301 Foggy
+🗼  u1f5fc Tokyo Tower
+⛲ Fountain
+🏰  u1f3f0 European Castle
+🏯  u1f3ef Japanese Castle
+🌇  u1f307 Sunset Over Buildings
+🌆  u1f306 Cityscape At Dusk
+🌃  u1f303 Night With Stars
+🌉  u1f309 Bridge At Night
+🏠  u1f3e0 House Building
+🏡  u1f3e1 House With Garden
+🏢  u1f3e2 Office Building
+🏬  u1f3ec Department Store
+🏭 u1f3ed Factory
+🏣  u1f3e3 Japanese Post Office
+🏤  u1f3e4 European Post Office
+🏥 u1f3e5 Hospital
+🏦 u1f3e6 Bank
+🏨 u1f3e8 1f3e9 Hotel
+🏩  u1f3e9 Love Hotel
+💒 u1f492 Wedding
+⛪ Church
+🏪  u1f3ea Convenience Store
+🏫 u1f3eb School
+🇦 u1f1e6-1f1fa Flag For Australia
+🇦 u1f1e6-1f1f9 Flag For Austria
+🇧 u1f1e7-1f1ea Flag For Belgium
+🇧 u1f1e7-1f1f7 Flag For Brazil
+🇨 u1f1e8-1f1e6 Flag For Canada
+🇨 u1f1e8-1f1f1 Flag For Chile
+🇨 u1f1e8-1f1f3 Flag For China
+🇨 u1f1e8-1f1f4 Flag For Colombia
+🇩 u1f1e9-1f1f0 Flag For Denmark
+🇫 u1f1eb-1f1ee Flag For Finland
+🇫 u1f1eb-1f1f7 Flag For France
+🇩 u1f1e9-1f1ea Flag For Germany
+🇭 u1f1ed-1f1f0 Flag For Hong Kong
+🇮 u1f1ee-1f1f3 Flag For India
+🇮 u1f1ee-1f1e9 Flag For Indonesia
+🇮 u1f1ee-1f1ea Flag For Ireland
+🇮 u1f1ee-1f1f1 Flag For Israel
+🇮 u1f1ee-1f1f9 Flag For Italy
+🇯 u1f1ef-1f1f5 Flag For Japan
+🇰 u1f1f0-1f1f7 Flag For South Korea
+🇲 u1f1f2-1f1f4 Flag For Macau
+🇲 u1f1f2-1f1fe Flag For Malaysia
+🇲 u1f1f2-1f1fd Flag For Mexico
+🇳 u1f1f3-1f1f1 Flag For Netherlands
+🇳 u1f1f3-1f1ff Flag For New Zealand
+🇳 u1f1f3-1f1f4 Flag For Norway
+🇵 u1f1f5-1f1ed Flag For Philippines
+🇵 u1f1f5-1f1f1 Flag For Poland
+🇵 u1f1f5-1f1f9 Flag For Portugal
+🇵 u1f1f5-1f1f7 Flag For Puerto Rico
+🇷 u1f1f7-1f1fa Flag For Russia
+🇸 u1f1f8-1f1e6 Flag For Saudi Arabia
+🇸 u1f1f8-1f1ec Flag For Singapore
+🇿 u1f1ff-1f1e6 Flag For South Africa
+🇪 u1f1ea-1f1f8 Flag For Spain
+🇸 u1f1f8-1f1ea Flag For Sweden
+🇨 u1f1e8-1f1ed Flag For Switzerland
+🇹 u1f1f9-1f1f7 Flag For Turkey
+🇬🇧 Flag For Great Britain
+🇺🇸 Flag For USA
+🇦 u1f1e6-1f1ea Flag For United Arab Emirates
+🇻 u1f1fb-1f1f3 Flag For Vietnam
