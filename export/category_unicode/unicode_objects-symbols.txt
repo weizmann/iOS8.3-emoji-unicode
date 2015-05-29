@@ -1,345 +1,345 @@
-23f1
-1f4f1
-1f4f2
-1f4bb
-23f0
-23f3
-
-1f3a5 1f4f7 1f4f9
-1f4f9
-1f3a5
-1f4fa
-1f4fb
-1f4df
-1f4de
-
-1f4e0
-1f4bd
-1f4be
-1f4bf
-1f4c0
-1f4fc
-1f50b
-1f50c
-1f4a1
-1f526
-1f4e1
-1f4b3
-1f4b8
-1f4b0
-1f48e
-1f302
-1f45d
-1f45b
-1f45c
-1f4bc
-1f392
-1f484
-1f453
-1f452
-1f461
-1f460
-1f462
-1f45e
-1f45f
-1f459
-1f457
-1f458
-1f45a
-1f455
-1f454
-1f456
-1f6aa
-1f6bf
-1f6c1
-1f6bd
-1f488
-1f489
-1f48a
-1f52c
-1f52d
-1f52e
-1f527
-1f52a
-1f529
-1f528
-1f4a3
-1f6ac 1f6ad
-1f52b
-1f516
-1f4f0
-1f1f9-1f1f7 1f412 1f510 1f511 1f648 1f649 1f64a
-1f4e8
-1f4e9
-1f4e8
-1f4e7
-1f4e5
-1f4e4
-1f4e6
-1f4ef
-1f4ee
-1f4ea
-1f4eb
-1f4ec
-1f4ed
-1f4c4
-1f4c3
-1f4d1
-1f4c8
-1f4c9
-1f4ca
-1f4c5 1f4c6
-1f4c6
-1f505
-1f506
-1f4dc
-1f4cb
-1f4d6
-1f4d3
-1f4d4
-1f4d2
-1f4d5
-1f4d7
-1f4d8
-1f4d9
-1f4da
-1f4c7
-1f517
-1f4ce
-1f4cc 1f4cd
-
-1f4d0
-1f4cd
-1f4cf
-1f6a9
-1f4c1 1f4c2
-1f4c2
-
-
-1f4dd
-1f50f
-1f510
-1f512 1f513 1f550 1f551 1f552 1f553 1f554 1f555 1f556 1f557 1f558 1f559 1f55a 1f55b 23f0 23f2
-1f513
-1f4e3
-1f4e2
-1f4e2 1f508
-1f509
-1f50a
-1f507
-1f4a4
-1f514
-1f515
-1f4ad
-1f4ac
-1f6b8
-1f50d
-1f50e
-1f6ab
-
-1f4db
-1f6b7
-1f6af
-1f6b3
-1f6b1
-1f4f5
-1f51e
-1f251
-1f250
-1f4ae
-
-
-1f234
-1f235
-1f232
-1f236
-
-1f238
-1f23a
-1f237
-1f239
-1f233
-1f202
-1f201
-
-1f4b9
-
-
-274e
-2705
-
-1f4f3
-1f4f4
-1f19a
-1f170
-1f171
-1f18e
-1f191
-1f17e
-1f198
-1f194
-
-1f6be
-1f192
-1f193
-1f195
-1f196
-1f197
-1f199
-1f3e7
-
-
-
-
-
-
-
-
-
-
-
-
-1f6bb
-1f6b9 1f6ba
-1f6ba
-1f6bc
-
-1f6b0 1f6b1
-1f6ad
-1f6ae
-
-
-1f53c
-1f53d
-23e9
-23ea
-23eb
-23ec
-
-
-
-
-
-
-
-
-
-
-1f504
-
-
-
-
-1f500
-1f501
-1f502
-
-
-
-
-
-
-
-
-
-
-
-1f51f
-1f522
-1f524
-1f521
-1f520
-
-1f4f6
-1f3a6
-1f523
-2795
-2796
-
-2797
-
-2705
-1f503 1f504
-
-
-
-1f4b1
-1f4b2
-27b0 27bf
-27bf
-
-
-2753
-2755
-2754
-
-
-274c 274e
-
-1f4af
-1f51a
-1f519
-1f51b
-1f51d
-1f51c
-1f300
-
-26ce
-1f52f
-1f530
-1f531
-
-
-
-1f4a2
-1f4a0
-
-
-
-
-
-
-
-1f518
-1f534
-1f535
-1f53a
-1f53b
-1f538
-1f539
-1f536
-1f537
-
-
-
-
-
-
-
-
-1f532
-1f533
-1f550
-1f55c
-1f551
-1f55d
-1f552
-1f55e
-1f553
-1f55f
-1f554
-1f560
-1f555
-1f561
-1f556
-1f562
-1f557
-1f563
-1f558
-1f564
-1f559
-1f565
-1f55a
-1f566
-1f55b
-1f567
+u23f1
+u1f4f1
+u1f4f2
+u1f4bb
+u23f0
+u23f3
+Hourglass
+u1f3a5 1f4f7 1f4f9
+u1f4f9
+u1f3a5
+u1f4fa
+u1f4fb
+u1f4df
+u1f4de
+Black Telephone
+u1f4e0
+u1f4bd
+u1f4be
+u1f4bf
+u1f4c0
+u1f4fc
+u1f50b
+u1f50c
+u1f4a1
+u1f526
+u1f4e1
+u1f4b3
+u1f4b8
+u1f4b0
+u1f48e
+u1f302
+u1f45d
+u1f45b
+u1f45c
+u1f4bc
+u1f392
+u1f484
+u1f453
+u1f452
+u1f461
+u1f460
+u1f462
+u1f45e
+u1f45f
+u1f459
+u1f457
+u1f458
+u1f45a
+u1f455
+u1f454
+u1f456
+u1f6aa
+u1f6bf
+u1f6c1
+u1f6bd
+u1f488
+u1f489
+u1f48a
+u1f52c
+u1f52d
+u1f52e
+u1f527
+u1f52a
+u1f529
+u1f528
+u1f4a3
+u1f6ac 1f6ad
+u1f52b
+u1f516
+u1f4f0
+u1f1f9-1f1f7 1f412 1f510 1f511 1f648 1f649 1f64a
+u1f4e8
+u1f4e9
+u1f4e8
+u1f4e7
+u1f4e5
+u1f4e4
+u1f4e6
+u1f4ef
+u1f4ee
+u1f4ea
+u1f4eb
+u1f4ec
+u1f4ed
+u1f4c4
+u1f4c3
+u1f4d1
+u1f4c8
+u1f4c9
+u1f4ca
+u1f4c5 1f4c6
+u1f4c6
+u1f505
+u1f506
+u1f4dc
+u1f4cb
+u1f4d6
+u1f4d3
+u1f4d4
+u1f4d2
+u1f4d5
+u1f4d7
+u1f4d8
+u1f4d9
+u1f4da
+u1f4c7
+u1f517
+u1f4ce
+u1f4cc 1f4cd
+Black Scissors
+u1f4d0
+u1f4cd
+u1f4cf
+u1f6a9
+u1f4c1 1f4c2
+u1f4c2
+Black Nib
+Pencil
+u1f4dd
+u1f50f
+u1f510
+u1f512 1f513 1f550 1f551 1f552 1f553 1f554 1f555 1f556 1f557 1f558 1f559 1f55a 1f55b 23f0 23f2
+u1f513
+u1f4e3
+u1f4e2
+u1f4e2 1f508
+u1f509
+u1f50a
+u1f507
+u1f4a4
+u1f514
+u1f515
+u1f4ad
+u1f4ac
+u1f6b8
+u1f50d
+u1f50e
+u1f6ab
+No Entry
+u1f4db
+u1f6b7
+u1f6af
+u1f6b3
+u1f6b1
+u1f4f5
+u1f51e
+u1f251
+u1f250
+u1f4ae
+Circled Ideograph Secret
+Circled Ideograph Congratulation
+u1f234
+u1f235
+u1f232
+u1f236
+Squared CJK Unified Ideograph-7121
+u1f238
+u1f23a
+u1f237
+u1f239
+u1f233
+u1f202
+u1f201
+Squared CJK Unified Ideograph-6307
+u1f4b9
+Sparkle
+Eight Spoked Asterisk
+u274e
+u2705
+Eight Pointed Black Star
+u1f4f3
+u1f4f4
+u1f19a
+u1f170
+u1f171
+u1f18e
+u1f191
+u1f17e
+u1f198
+u1f194
+Negative Squared Latin Capital Letter P
+u1f6be
+u1f192
+u1f193
+u1f195
+u1f196
+u1f197
+u1f199
+u1f3e7
+Aries
+Taurus
+Gemini
+Cancer
+Leo
+Virgo
+Libra
+Scorpius
+Sagittarius
+Capricorn
+Aquarius
+Pisces
+u1f6bb
+u1f6b9 1f6ba
+u1f6ba
+u1f6bc
+Wheelchair Symbol
+u1f6b0 1f6b1
+u1f6ad
+u1f6ae
+Black Right-Pointing Triangle
+Black Left-Pointing Triangle
+u1f53c
+u1f53d
+u23e9
+u23ea
+u23eb
+u23ec
+Black Rightwards Arrow
+Leftwards Black Arrow
+Upwards Black Arrow
+Downwards Black Arrow
+North East Arrow
+South East Arrow
+South West Arrow
+North West Arrow
+Up Down Arrow
+Left Right Arrow
+u1f504
+Rightwards Arrow With Hook
+Leftwards Arrow With Hook
+Arrow Pointing Rightwards Then Curving Upwards
+Arrow Pointing Rightwards Then Curving Downwards
+u1f500
+u1f501
+u1f502
+Hash Key
+Keycap0
+Keycap1
+Keycap2
+Keycap3
+Keycap4
+Keycap5
+Keycap6
+Keycap7
+Keycap8
+Keycap9
+u1f51f
+u1f522
+u1f524
+u1f521
+u1f520
+Information Source
+u1f4f6
+u1f3a6
+u1f523
+u2795
+u2796
+Wavy Dash
+u2797
+Heavy Multiplication X
+u2705
+u1f503 1f504
+Trade Mark Sign
+Copyright Sign
+Registered Sign
+u1f4b1
+u1f4b2
+u27b0 27bf
+u27bf
+Part Alternation Mark
+Heavy Exclamation Mark Symbol
+u2753
+u2755
+u2754
+Double Exclamation Mark
+Exclamation Question Mark
+u274c 274e
+Heavy Large Circle
+u1f4af
+u1f51a
+u1f519
+u1f51b
+u1f51d
+u1f51c
+u1f300
+Circled Latin Capital Letter M
+u26ce
+u1f52f
+u1f530
+u1f531
+Warning Sign
+Hot Springs
+Black Universal Recycling Symbol
+u1f4a2
+u1f4a0
+Black Spade Suit
+Black Heart Suit
+Black Club Suit
+Black Diamond Suit
+Ballot Box With Check
+Medium White Circle
+Medium Black Circle
+u1f518
+u1f534
+u1f535
+u1f53a
+u1f53b
+u1f538
+u1f539
+u1f536
+u1f537
+Black Small Square
+White Small Square
+Black Large Square
+White Large Square
+Black Medium Square
+White Medium Square
+Black Medium Small Square
+White Medium Small Square
+u1f532
+u1f533
+u1f550
+u1f55c
+u1f551
+u1f55d
+u1f552
+u1f55e
+u1f553
+u1f55f
+u1f554
+u1f560
+u1f555
+u1f561
+u1f556
+u1f562
+u1f557
+u1f563
+u1f558
+u1f564
+u1f559
+u1f565
+u1f55a
+u1f566
+u1f55b
+u1f567

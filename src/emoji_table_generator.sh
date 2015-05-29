@@ -88,10 +88,10 @@ do
 		unicode_value=`echo "${unicode_name_value}" | cut -d ' '  -f 1`
 		if [[ -z ${unicode_value} ]]; then
 			echo "unicode_value is null matched_unicode_name_line = "${matched_unicode_name_line}", emoji_name = "${emoji_name}
-			echo >> ${unicode_dir}/unicode_${category}.txt
+			echo ${emoji_name} >> ${unicode_dir}/unicode_${category}.txt
 			continue
 		fi
-		echo ${unicode_value} >> ${unicode_dir}/unicode_${category}.txt
+		echo u${unicode_value} >> ${unicode_dir}/unicode_${category}.txt
 		unicode_value=`echo ${unicode_value} | sed 's/\\n//g'`
 		echo ${line_number} > /dev/null 
 		sed -i'' -n "${line_number}s/${raw_emoji_name}/ u${unicode_value} ${emoji_name}/" ${emoji_name_file}
