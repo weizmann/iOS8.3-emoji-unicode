@@ -13,12 +13,12 @@ array_contains_item() {
 SRC_DIR=`pwd`
 EXPORT_DIR=${SRC_DIR}/../export
 emoji_categories=(\
-		travel-places
 		people
 		nature
 		food-drink
 		celebration
 		activity
+		travel-places
 		objects-symbols)
 
 category_titles=(\
@@ -34,10 +34,18 @@ category_titles=(\
 
 cd ${EXPORT_DIR}
 
-rm emoji_name_*
-rm emoji_unicode_*
+rm -rf emoji*
 
-name_unicode_file=emoji_unicode_file.txt
+emoji_dir=category_emoji
+unicode_dir=category_unicode
+
+rm -rf ${emoji_dir}
+rm -rf ${unicode_dir}
+
+[ -d ${emoji_dir} ] || mkdir ${emoji_dir}
+[ -d ${unicode_dir} ] || mkdir ${unicode_dir}
+
+name_unicode_file=unicode_file.txt
 curl "http://www.emojibase.com/emoji-versions/v6.0" > tmp.file 
 grep "a\ href=\"\/emoji\/" tmp.file > ${name_unicode_file}
 sed -i'' -e 's/^.*emoji\///g' ${name_unicode_file}
@@ -47,6 +55,9 @@ sed -i'' -e 's/ $//g' ${name_unicode_file}
 
 for category in ${emoji_categories[@]}
 do
+	echo "==========================================================="
+	echo "			category "${category}
+	echo "==========================================================="
 	emoji_name_file=emoji_name_${category}.txt
 	curl http://emojipedia.org/${category} > tmp.file
 	cat tmp.file | grep "a title" | grep href > ${emoji_name_file}
@@ -62,6 +73,7 @@ do
 		contains_item=$(array_contains_item "${last_line}"  "${category_titles[@]}")
 	done
 
+	sed 's/\([a-zA-Z.-_ ]\)\(.*\)//g' ${emoji_name_file} > ${emoji_dir}/emoji_${category}.txt
 	sed 's/^.//g' ${emoji_name_file} > tmp.file
 	line_number=0
 	while read emoji_name
@@ -76,11 +88,13 @@ do
 		unicode_value=`echo "${unicode_name_value}" | cut -d ' '  -f 1`
 		if [[ -z ${unicode_value} ]]; then
 			echo "unicode_value is null matched_unicode_name_line = "${matched_unicode_name_line}", emoji_name = "${emoji_name}
+			echo >> ${unicode_dir}/unicode_${category}.txt
 			continue
 		fi
+		echo ${unicode_value} >> ${unicode_dir}/unicode_${category}.txt
 		unicode_value=`echo ${unicode_value} | sed 's/\\n//g'`
-		echo ${line_number}
-		sed -i'' -n "${line_number}s/${raw_emoji_name}/ u${unicode_value} ${emoji_name}/g" ${emoji_name_file}
+		echo ${line_number} > /dev/null 
+		sed -i'' -n "${line_number}s/${raw_emoji_name}/ u${unicode_value} ${emoji_name}/" ${emoji_name_file}
 
 	done < tmp.file
 
