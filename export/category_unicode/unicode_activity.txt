@@ -7,19 +7,19 @@ u1f3c4
 u1f6c0
 u1f3c2
 u1f3bf
-Snowman Without Snow
-u1f6b4 1f6b5
+u26c4_fe0f
+u1f6b4
 u1f6b5
 u1f3c7
 u1f3aa
 u1f3a3
-Soccer Ball
+u26bd_fe0f
 u1f3c0
 u1f3c8
-Baseball
+u26be_fe0f
 u1f3be
 u1f3c9
-Flag In Hole
+u26f3_fe0f
 u1f3c6
 u1f3bd
 u1f3c1
@@ -47,7 +47,7 @@ u1f3b2
 u1f3ae
 u1f3b4
 u1f0cf
-Mahjong Tile Red Dragon
+u1f004_fe0f
 u1f3a0
 u1f3a1
 u1f3a2

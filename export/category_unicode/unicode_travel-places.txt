@@ -5,23 +5,23 @@ u1f68b
 u1f69d
 u1f684
 u1f685
-u1f684 1f686
+u1f686
 u1f687
 u1f688
 u1f689
 u1f68a
-u1f68c 1f68d 1f68e 1f690
+u1f68c
 u1f68d
 u1f68e
 u1f690
 u1f691
 u1f692
-u1f693 1f694
+u1f693
 u1f694
 u1f6a8
-u1f695 1f696
+u1f695
 u1f696
-u1f697 1f698
+u1f697
 u1f698
 u1f699
 u1f69a
@@ -29,18 +29,18 @@ u1f69b
 u1f69c
 u1f6b2
 u1f68f
-Fuel Pump
+u26fd
 u1f6a7
 u1f6a6
 u1f6a5
 u1f680
 u1f681
-Airplane
+u2708
 u1f4ba
-Anchor
+u2693
 u1f6a2
 u1f6a4
-Sailboat
+u26f5
 u1f6a1
 u1f6a0
 u1f69f
@@ -56,7 +56,7 @@ u1f5fd
 u1f5ff
 u1f301
 u1f5fc
-Fountain
+u26f2
 u1f3f0
 u1f3ef
 u1f307
@@ -72,10 +72,10 @@ u1f3e3
 u1f3e4
 u1f3e5
 u1f3e6
-u1f3e8 1f3e9
+u1f3e8
 u1f3e9
 u1f492
-Church
+u26ea
 u1f3ea
 u1f3eb
 u1f1e6-1f1fa
@@ -116,7 +116,7 @@ u1f1ea-1f1f8
 u1f1f8-1f1ea
 u1f1e8-1f1ed
 u1f1f9-1f1f7
-Flag For Great Britain
-Flag For USA
+u1f1ec-1f1e7
+u1f1fa-1f1f8
 u1f1e6-1f1ea
 u1f1fb-1f1f3

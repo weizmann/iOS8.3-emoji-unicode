@@ -1,4 +1,4 @@
-u1f380 1f49d
+u1f380
 u1f381
 u1f382
 u1f383
@@ -10,7 +10,7 @@ u1f386
 u1f387
 u1f389
 u1f38a
-u1f388 1f4ac 1f4ad
+u1f388
 u1f4ab
 u2728
 u1f4a5
@@ -22,7 +22,7 @@ u1f390
 u1f38c
 u1f3ee
 u1f48d
-Heavy Black Heart
+u2764_fe0f
 u1f494
 u1f48c
 u1f495

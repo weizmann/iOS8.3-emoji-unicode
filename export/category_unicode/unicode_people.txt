@@ -1,58 +1,58 @@
-Grinning Face
+u1f600
 u1f601
-u1f602 1f639
+u1f602
 u1f603
 u1f604
 u1f605
 u1f606
 u1f607
 u1f608
-u1f364 1f47f
+u1f47f
 u1f609
 u1f60a
-White Smiling Face
+u263a
 u1f60b
-u1f60c 1f625
+u1f60c
 u1f60d
 u1f60e
 u1f60f
 u1f610
-Expressionless Face
+u1f611
 u1f612
 u1f613
 u1f614
-Confused Face
+u1f615
 u1f616
-Kissing Face
+u1f617
 u1f618
-Kissing Face With Smiling Eyes
+u1f619
 u1f61a
-Face With Stuck-Out Tongue
+u1f61b
 u1f61c
 u1f61d
 u1f61e
-Worried Face
+u1f61f
 u1f620
-u1f621 1f64e
-u1f622 1f62d
+u1f621
+u1f622
 u1f623
 u1f624
 u1f625
-Frowning Face With Open Mouth
-Anguished Face
+u1f626
+u1f627
 u1f628
 u1f629
 u1f62a
 u1f62b
-Grimacing Face
+u1f62c
 u1f62d
-u1f603 1f63a
-Hushed Face
-u1f605 1f630
+u1f62e
+u1f62f
+u1f630
 u1f631
 u1f632
 u1f633
-Sleeping Face
+u1f634
 u1f635
 u1f636
 u1f637
@@ -70,23 +70,23 @@ u1f464
 u1f465
 u1f466
 u1f467
-u1f1ee-1f1f2 1f1f4-1f1f2 1f468 1f469 1f474 1f475 1f482
-u1f469 1f475
-Family Man Woman Boy
-Family Man Woman Girl
+u1f468
+u1f469
+u1f468-200d-1f469-200d-1f466
+u1f468-200d-1f469-200d-1f467
 u1f46a
-Family Man Woman Boy Boy
-Family Man Woman Girl Girl
-Family Woman Woman Boy
-Family Woman Woman Girl
-Family Woman Woman Girl Boy
-Family Woman Woman Boy Boy
-Family Woman Woman Girl Girl
-Family Man Man Boy
-Family Man Man Girl
-Family Man Man Girl Boy
-Family Man Man Boy Boy
-Family Man Man Girl Girl
+u1f468-200d-1f469-200d-1f466-200d-1f466
+u1f468-200d-1f469-200d-1f467-200d-1f467
+u1f469-200d-1f469-200d-1f466
+u1f469-200d-1f469-200d-1f467
+u1f469-200d-1f469-200d-1f467-200d-1f466
+u1f469-200d-1f469-200d-1f466-200d-1f466
+u1f469-200d-1f469-200d-1f467-200d-1f467
+u1f468-200d-1f468-200d-1f466
+u1f468-200d-1f468-200d-1f467
+u1f468-200d-1f468-200d-1f467-200d-1f466
+u1f468-200d-1f468-200d-1f466-200d-1f466
+u1f468-200d-1f468-200d-1f467-200d-1f467
 u1f46b
 u1f46c
 u1f46d
@@ -121,30 +121,30 @@ u1f64d
 u1f486
 u1f487
 u1f491
-Couple With Heart Woman Woman
-Couple With Heart Man Man
+uif469-200d-2764-fe0f-200d-1f469
+uif468-200d-2764-fe0f-200d-1f468
 u1f48f 1f618
-Kiss Woman Woman
-Kiss Man Man
+u1f469-200d-2764-fe0f-200d-1f48b-200d-1f469
+u1f468-200d-2764-fe0f-200d-1f48b-200d-1f468
 u1f64c
 u1f44f
-u1f350 1f442 1f631
-u1f440 1f601 1f604 1f606 1f60a 1f60d 1f61a 1f61d 1f638 1f63b 1f63d
-u1f43d 1f443 1f685
-u1f444 1f603 1f636 1f63a
+u1f442
+u1f440
+u1f443
+u1f444
 u1f48b
 u1f445
 u1f485
 u1f44b
 u1f44d
 u1f44e
-White Up Pointing Index
+u261d_fe0f
 u1f446
 u1f447
 u1f448
 u1f449
 u1f44c
-Victory Hand
+u270c_fe0f
 u1f44a
 u270a
 u270b

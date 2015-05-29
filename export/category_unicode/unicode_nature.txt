@@ -8,7 +8,7 @@ u1f338
 u1f339
 u1f33a
 u1f33b
-u1f338 1f33c
+u1f33c
 u1f490
 u1f33e
 u1f33f
@@ -18,11 +18,11 @@ u1f342
 u1f343
 u1f344
 u1f330
-u1f1f2-1f1f8 1f400
+u1f400
 u1f401
 u1f42d
 u1f439
-u1f371 1f402 1f4ee
+u1f402
 u1f403
 u1f404
 u1f42e
@@ -32,15 +32,15 @@ u1f42f
 u1f407
 u1f430
 u1f408
-u1f431 1f63e 1f63f 1f640
-u1f3a0 1f40e
+u1f431
+u1f40e
 u1f434
-u1f40f 1f68a
+u1f40f
 u1f411
 u1f410
 u1f413
 u1f414
-u1f424 1f425
+u1f424
 u1f423
 u1f425
 u1f426
@@ -63,40 +63,40 @@ u1f435
 u1f648
 u1f649
 u1f64a
-u1f412 1f648 1f649 1f64a
+u1f412
 u1f409
 u1f432
 u1f40a
 u1f40d
 u1f422
 u1f438
-u1f40b 1f433
+u1f40b
 u1f433
 u1f42c
 u1f419
-u1f3a3 1f41f 1f420 1f421
+u1f41f
 u1f420
 u1f421
 u1f41a
 u1f40c
 u1f41b
-u1f418 1f41c
+u1f41c
 u1f41d
 u1f41e
 u1f43e
-High Voltage Sign
+u26a1_fe0f
 u1f525
 u1f319
-Black Sun With Rays
-Sun Behind Cloud
-Cloud
+u2600_fe0f
+u26c5_fe0f
+u2601_fe0f
 u1f4a7
 u1f4a6
-Umbrella With Rain Drops
+u2614_fe0f
 u1f4a8
-Snowflake
+u2744_fe0f
 u1f31f
-White Medium Star
+u2b50_fe0f
 u1f320
 u1f304
 u1f305

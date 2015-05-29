@@ -3,7 +3,7 @@ u1f346
 u1f33d
 u1f360
 u1f347
-u1f348 1f349
+u1f348
 u1f349
 u1f34a
 u1f34b
@@ -34,7 +34,7 @@ u1f364
 u1f365
 u1f366
 u1f367
-u1f366 1f368
+u1f368
 u1f369
 u1f36a
 u1f36b
@@ -48,7 +48,7 @@ u1f372
 u1f373
 u1f374
 u1f375
-Hot Beverage
+u2615_fe0f
 u1f376
 u1f377
 u1f378
