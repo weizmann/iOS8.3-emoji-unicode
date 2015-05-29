@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 emoji_categories=(\
 		people
@@ -26,7 +26,10 @@ cd ${EXPORT_DIR}
 
 [ -d ${lua_file_dir} ] || mkdir ${lua_file_dir}
 
-lua_file_name=${lua_file_dir}/emoji_full.lua
+lua_file_emoji_full=${lua_file_dir}/emoji_full.lua
+lua_file_emoji_unicode=${lua_file_dir}/emoji_unicode.lua
+
+echo "------------ generating emoji_full.lua -------------" 
 
 echo "require "smartinput" \
 
@@ -45,7 +48,7 @@ local si = _G.smartinput
 category_recent = {
 		
 }
-" > ${lua_file_name}
+" > ${lua_file_emoji_full}
 
 category_index=0
 for category in ${emoji_categories[@]}
@@ -53,17 +56,54 @@ do
 	echo "######## "$category" ########"
 	
 	category_index=$((category_index+1))
-	echo "category_"${emoji_category_names[${category_index}]}" = {" >> ${lua_file_name}
+	echo "category_"${emoji_category_names[${category_index}]}" = {" >> ${lua_file_emoji_full}
 	
 	line_number=0
 	while read unicode
 	do
 		line_number=$((line_number+1))
-		echo "		\"${unicode}\", --${line_number}" >> ${lua_file_name} 
+		echo "		\"${unicode}\", --${line_number}" >> ${lua_file_emoji_full} 
 	done < category_unicode/unicode_${category}.txt
 	
-	echo "}" >> ${lua_file_name}
-	echo >> ${lua_file_name}
+	echo "}" >> ${lua_file_emoji_full}
+	echo >> ${lua_file_emoji_full}
 done
 
-echo "return P" >> ${lua_file_name}
+echo "return P" >> ${lua_file_emoji_full}
+
+echo "------------ generating emoji_unicode.lua -------------" 
+
+echo "require "smartinput"
+
+local P = {}
+P._G = _G
+
+if _REQUIREDNAME == nil then
+	emoji_unicode = P
+else
+	_G[_REQUIREDNAME] = P
+end
+setfenv(1, P)
+	
+local si = _G.smartinput
+	
+emoji_list = {" > ${lua_file_emoji_unicode}
+
+for category in ${emoji_categories[@]}
+do
+	echo "######## "$category" ########"
+	
+	sed -i'' -e 's/^\\u//g' category_utf8/utf8_${category}.txt
+
+	line_number=0
+	while read unicode
+	do
+		line_number=$((line_number+1))
+		utf8_value=`sed -n "${line_number}p" category_utf8/utf8_${category}.txt | sed 's/\\\u/) .. si.u16char(0x/g'`
+		echo "		${unicode}			=	si.u16char(0x${utf8_value}),  -- ${category} [${line_number}]" >> ${lua_file_emoji_unicode} 
+	done < category_unicode/unicode_${category}.txt
+	
+	echo >> ${lua_file_emoji_unicode}
+done
+
+echo "}" >> ${lua_file_emoji_unicode}
