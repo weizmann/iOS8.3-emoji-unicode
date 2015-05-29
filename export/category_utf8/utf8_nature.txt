@@ -99,7 +99,7 @@ d83c\udf1f
 2b50
 d83c\udf20
 d83c\udf04
-d83c\udf05\240
+d83c\udf05
 d83c\udf08
 d83c\udf0a
 d83c\udf0b
