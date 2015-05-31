@@ -178,7 +178,7 @@ u1f191
 u1f17e
 u1f198
 u1f194
-uu1f17f
+u1f17f
 u1f6be
 u1f192
 u1f193
@@ -265,7 +265,7 @@ ua9
 uae
 u1f4b1
 u1f4b2
-u27b0 27bf
+u27b0
 u27bf
 u303d_fe0f
 u2757_fe0f
@@ -274,7 +274,7 @@ u2755
 u2754
 u203c_fe0f
 u2049_fe0f
-u274c 274e
+u274c
 u2b55_fe0f
 u1f4af
 u1f51a
