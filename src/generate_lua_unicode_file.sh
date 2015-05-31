@@ -108,3 +108,6 @@ do
 done
 
 echo "}" >> ${lua_file_emoji_unicode}
+
+rm category_unicode/*-e
+rm category_utf8/*-e
