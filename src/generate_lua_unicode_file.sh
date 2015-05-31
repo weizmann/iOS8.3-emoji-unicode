@@ -12,11 +12,11 @@ emoji_categories=(\
 emoji_category_names=(\
 		people
 		nature
-		food_drink
+		symbols
 		celebration
 		activity
-		travel_places
-		objects_symbols)
+		places
+		objects)
 
 CURRENT_DIR=`pwd`
 EXPORT_DIR=${CURRENT_DIR}/../export
@@ -31,7 +31,7 @@ lua_file_emoji_unicode=${lua_file_dir}/emoji_unicode.lua
 
 echo "------------ generating emoji_full.lua -------------" 
 
-echo "require "smartinput" \
+echo "require \"smartinput\" 
 
 local P = {}
 P._G = _G
@@ -50,10 +50,11 @@ category_recent = {
 }
 " > ${lua_file_emoji_full}
 
-category_index=0
+category_index=-1
 for category in ${emoji_categories[@]}
 do
 	echo "######## "$category" ########"
+	sed -i'' -e 's/-/_/g' category_unicode/unicode_${category}.txt
 	
 	category_index=$((category_index+1))
 	echo "category_"${emoji_category_names[${category_index}]}" = {" >> ${lua_file_emoji_full}
@@ -73,7 +74,7 @@ echo "return P" >> ${lua_file_emoji_full}
 
 echo "------------ generating emoji_unicode.lua -------------" 
 
-echo "require "smartinput"
+echo "require \"smartinput\"
 
 local P = {}
 P._G = _G

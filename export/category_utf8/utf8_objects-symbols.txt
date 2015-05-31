@@ -233,7 +233,7 @@ d83d\udd04
 d83d\udd00
 d83d\udd01
 d83d\udd02
-#\ufe0f\u20e3
+0023\u20e3
 0030\u20e3
 0031\u20e3
 0032\u20e3
