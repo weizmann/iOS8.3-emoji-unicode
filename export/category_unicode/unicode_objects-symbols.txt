@@ -12,7 +12,7 @@ u1f4fa
 u1f4fb
 u1f4df
 u1f4de
-u260e
+u260e_fe0f
 u1f4e0
 u1f4bd
 u1f4be
@@ -107,15 +107,15 @@ u1f4c7
 u1f517
 u1f4ce
 u1f4cc
-u2702
+u2702_fe0f
 u1f4d0
 u1f4cd
 u1f4cf
 u1f6a9
 u1f4c1
 u1f4c2
-u2712
-u270f
+u2712_fe0f
+u270f_fe0f
 u1f4dd
 u1f50f
 u1f510
@@ -178,7 +178,7 @@ u1f191
 u1f17e
 u1f198
 u1f194
-u1f17f
+u1f17f_fe0f
 u1f6be
 u1f192
 u1f193

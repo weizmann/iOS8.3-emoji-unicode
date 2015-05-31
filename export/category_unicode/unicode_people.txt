@@ -10,7 +10,7 @@ u1f608
 u1f47f
 u1f609
 u1f60a
-u263a
+u263a_fe0f
 u1f60b
 u1f60c
 u1f60d
