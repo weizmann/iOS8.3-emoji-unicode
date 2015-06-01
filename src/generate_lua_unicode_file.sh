@@ -12,7 +12,7 @@ emoji_categories=(\
 emoji_category_names=(\
 		people
 		nature
-		symbols
+		food
 		celebration
 		activity
 		places
@@ -26,8 +26,8 @@ cd ${EXPORT_DIR}
 
 [ -d ${lua_file_dir} ] || mkdir ${lua_file_dir}
 
-lua_file_emoji_full=${lua_file_dir}/emoji_full.lua
-lua_file_emoji_unicode=${lua_file_dir}/emoji_unicode.lua
+lua_file_emoji_full=${lua_file_dir}/emoji_full_since_8_3.lua
+lua_file_emoji_unicode=${lua_file_dir}/emoji_unicode_since_8_3.lua
 
 echo "------------ generating emoji_full.lua -------------" 
 

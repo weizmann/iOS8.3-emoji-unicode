@@ -300,7 +300,7 @@ category_nature = {
 		"u1f31e", --125
 }
 
-category_symbols = {
+category_food = {
 		"u1f345", --1
 		"u1f346", --2
 		"u1f33d", --3
